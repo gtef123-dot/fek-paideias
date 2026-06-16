@@ -5,5 +5,5 @@
 //   SYNTH_ENDPOINT: "https://fek-paideias-synth.<account>.workers.dev"
 // Άδειο = η AI-σύνθεση είναι ανενεργή (τοπικά: localStorage.fek_dev_key για δοκιμή).
 window.FEK_CONFIG = {
-  SYNTH_ENDPOINT: ""
+  SYNTH_ENDPOINT: "https://fek-paideias-synth.vasilikos.workers.dev"
 };
