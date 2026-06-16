@@ -1,0 +1,36 @@
+{
+ "id": "seed:Υπουργείο Παιδείας — Συγκεντρωτικό ενημερωτικό για τις άδειες αναπληρω",
+ "source": "seed",
+ "source_label": "Θεμελιώδης νόμος",
+ "title": "Υπουργείο Παιδείας — Συγκεντρωτικό ενημερωτικό για τις άδειες αναπληρωτών εκπαιδευτικών, ΕΕΠ & ΕΒΠ (ενημερωτικό έγγραφο, να διασταυρώνεται με την τρέχουσα ετήσια εγκύκλιο)",
+ "summary": "Άδειες αναπληρωτών (συγκεντρωτική καθοδήγηση ΥΠΑΙΘ — ΟΧΙ ΦΕΚ)",
+ "doc_type": "Νομοθεσία",
+ "fek_label": null,
+ "date": "2021-01-01",
+ "ada": null,
+ "categories": [
+  "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)",
+  "Προσλήψεις Αναπληρωτών",
+  "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
+ ],
+ "levels": [
+  "Όλες / Γενικό"
+ ],
+ "classified_by": "rules",
+ "official_url": "https://www.minedu.gov.gr/publications/docs2021/adeies_anaplirotwn_ekpaideutikwn.pdf",
+ "source_url": "https://www.minedu.gov.gr/publications/docs2021/adeies_anaplirotwn_ekpaideutikwn.pdf",
+ "added_at": "2026-06-15",
+ "summary_ai": null,
+ "keywords": [],
+ "articles": [],
+ "excerpts": [],
+ "enriched": false,
+ "status": "ΟΔΗΓΟΣ",
+ "enrich_tried": 0,
+ "affected_by": [],
+ "authority_level": "official_guide",
+ "verification_status": "needs_primary_source",
+ "legal_disclaimer_required": true,
+ "doc_id": "f16feac4e0993223",
+ "year": "2021"
+}

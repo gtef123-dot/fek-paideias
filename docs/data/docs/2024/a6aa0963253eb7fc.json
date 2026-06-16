@@ -1,0 +1,35 @@
+{
+ "id": "seed:Σύντομος Οδηγός Αδειών Αναπληρωτών ΕΣΠΑ — Δ.Δ.Ε. Εύβοιας (πίνακας ημερ",
+ "source": "seed",
+ "source_label": "Θεμελιώδης νόμος",
+ "title": "Σύντομος Οδηγός Αδειών Αναπληρωτών ΕΣΠΑ — Δ.Δ.Ε. Εύβοιας (πίνακας ημερών & νομικών παραπομπών· κωδικοποιεί π.δ.410/1988, ν.3528/2007, ν.4674/2020 αρ.47, ν.4808/2021, Α.Κ. 657-658 κ.λπ.). Πρακτική πηγή, όχι ΦΕΚ — διασταύρωση με οικεία ΠΔΕ",
+ "summary": "Άδειες αναπληρωτών ΕΣΠΑ — κωδικοποιημένος πρακτικός οδηγός Δ/νσης Εκπαίδευσης",
+ "doc_type": "Οδηγός",
+ "fek_label": null,
+ "date": "2024-01-01",
+ "ada": null,
+ "categories": [
+  "Προσλήψεις Αναπληρωτών",
+  "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)"
+ ],
+ "levels": [
+  "Όλες / Γενικό"
+ ],
+ "classified_by": "rules",
+ "official_url": "https://dide.evr.sch.gr/wp-content/uploads/2024/08/Odigos-Adeies-Anaplirwtes.pdf",
+ "source_url": "https://dide.evr.sch.gr/wp-content/uploads/2024/08/Odigos-Adeies-Anaplirwtes.pdf",
+ "added_at": "2026-06-15",
+ "summary_ai": null,
+ "keywords": [],
+ "articles": [],
+ "excerpts": [],
+ "enriched": false,
+ "status": "ΟΔΗΓΟΣ",
+ "enrich_tried": 0,
+ "affected_by": [],
+ "authority_level": "official_guide",
+ "verification_status": "needs_primary_source",
+ "legal_disclaimer_required": true,
+ "doc_id": "a6aa0963253eb7fc",
+ "year": "2024"
+}

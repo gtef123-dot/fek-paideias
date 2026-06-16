@@ -1,0 +1,2566 @@
+{
+ "meta": {
+  "updated_at": "2026-06-16 17:32 UTC",
+  "count": 82,
+  "enriched": 10,
+  "health": {
+   "checked_at": "2026-06-16 17:32 UTC",
+   "e_nomothesia_fetched": 40,
+   "diavgeia_orgs_scanned": 2,
+   "diavgeia_orgs_with_results": 1,
+   "diavgeia_fetched": 21,
+   "diavgeia_canary": {
+    "ok": true,
+    "total": 37688,
+    "shape_ok": true
+   },
+   "new_this_run": 0,
+   "problems": []
+  },
+  "categories": [
+   [
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    14
+   ],
+   [
+    "Προσλήψεις Αναπληρωτών",
+    11
+   ],
+   [
+    "Ωρολόγια & Προγράμματα Σπουδών",
+    11
+   ],
+   [
+    "Γενικά Εκπαιδευτικά",
+    11
+   ],
+   [
+    "Οργάνωση & Διοίκηση Σχολείων",
+    11
+   ],
+   [
+    "Μισθολογικά / Οικονομικά",
+    10
+   ],
+   [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση",
+    10
+   ],
+   [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια",
+    9
+   ],
+   [
+    "Σχολική Ζωή & Φοίτηση Μαθητών",
+    7
+   ],
+   [
+    "Στελέχη / Επιλογή Διευθυντών",
+    7
+   ],
+   [
+    "Νηπιαγωγείο / Ολοήμερο",
+    7
+   ],
+   [
+    "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)",
+    6
+   ],
+   [
+    "Ιδιωτική Εκπαίδευση",
+    4
+   ],
+   [
+    "Διορισμοί Μονίμων (ΑΣΕΠ)",
+    3
+   ],
+   [
+    "Άδεια Άσκησης Ιδιωτικού Έργου / Επαγγέλματος",
+    3
+   ],
+   [
+    "Αξιολόγηση Εκπαιδευτικών & Σχ. Μονάδων",
+    3
+   ],
+   [
+    "Τοποθετήσεις & Οργανικές Θέσεις",
+    3
+   ],
+   [
+    "Επιμόρφωση",
+    2
+   ],
+   [
+    "Μεταθέσεις",
+    1
+   ]
+  ],
+  "levels": [
+   [
+    "Όλες / Γενικό",
+    57
+   ],
+   [
+    "Πρωτοβάθμια",
+    15
+   ],
+   [
+    "Δευτεροβάθμια",
+    14
+   ]
+  ],
+  "doc_types": [
+   [
+    "Υπουργική Απόφαση",
+    22
+   ],
+   [
+    "Κανονιστική Πράξη",
+    17
+   ],
+   [
+    "Νόμος",
+    11
+   ],
+   [
+    "ΚΥΑ",
+    8
+   ],
+   [
+    "Εγκύκλιος",
+    7
+   ],
+   [
+    "Απόφαση",
+    6
+   ],
+   [
+    "Προεδρικό Διάταγμα",
+    5
+   ],
+   [
+    "Οδηγός",
+    5
+   ],
+   [
+    "Νομοθεσία",
+    1
+   ]
+  ]
+ },
+ "records": [
+  {
+   "doc_id": "44cb019073de37a9",
+   "id": "ada:9ΜΧΗ46ΝΚΠΔ-Ο23",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "Τροποποίηση της υπό στοιχεία 102474/Δ2/20-08-2021 Υ.Α. με θέμα: «Ομάδες και κλάδοι μαθημάτων, τρόπος και χρόνος εξέτασης και βαθμολόγησης, ορισμός και υποχρεώσεις επιτηρητών, υποχρεώσεις μαθητών κατά τη διάρκεια της εξέτασης, τρόπος διατύπωσης των θεμάτων, βαθμολόγηση των γραπτών δοκιμίων των προαγωγικών και απολυτηρίων εξετάσεων, αναβαθμολόγηση των γραπτών δοκιμίων προαγωγικών και απολυτηρίων εξετάσεων του Γενικού Λυκείου, τρόπος φύλαξης των γραπτών και κάθε άλλο σχετικό θέμα» (Β΄ 4134).",
+   "summary": "Τροποποίηση της υπό στοιχεία 102474/Δ2/20-08-2021 Υ.Α. με θέμα: «Ομάδες και κλάδοι μαθημάτων, τρόπος και χρόνος εξέτασης και βαθμολόγησης, ορισμός και υποχρεώσεις επιτηρητών, υποχρεώσεις μαθητών κατά τη διάρκεια της εξέτασης, τρόπος διατύπωσης των θεμάτων, βαθμολόγηση των γραπτών",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "9ΜΧΗ46ΝΚΠΔ-Ο23",
+   "date": "2026-06-16",
+   "categories": [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/9ΜΧΗ46ΝΚΠΔ-Ο23",
+   "source_url": "https://diavgeia.gov.gr/decision/view/9ΜΧΗ46ΝΚΠΔ-Ο23",
+   "affected_by": []
+  },
+  {
+   "doc_id": "981319a2f0a54a82",
+   "id": "ada:Ρ4ΔΡ46ΝΚΠΔ-ΗΨΕ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "ΠΕΡΙΛΗΨΗ ΙΔΙΩΤΙΚΟΥ ΣΥΜΦΩΝΗΤΙΚΟΥ 2026/EPALE 2025 - 2026",
+   "summary": "ΠΕΡΙΛΗΨΗ ΙΔΙΩΤΙΚΟΥ ΣΥΜΦΩΝΗΤΙΚΟΥ 2026/EPALE 2025 - 2026",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "Ρ4ΔΡ46ΝΚΠΔ-ΗΨΕ",
+   "date": "2026-06-16",
+   "categories": [
+    "Επιμόρφωση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/Ρ4ΔΡ46ΝΚΠΔ-ΗΨΕ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/Ρ4ΔΡ46ΝΚΠΔ-ΗΨΕ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "9732d732b9c27740",
+   "id": "ada:6Υ5Α46ΝΚΠΔ-Ζ40",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "Μονιμοποίηση εκπαιδευτικών Δ.Ε.",
+   "summary": "Μονιμοποίηση εκπαιδευτικών Δ.Ε.",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "6Υ5Α46ΝΚΠΔ-Ζ40",
+   "date": "2026-06-15",
+   "categories": [
+    "Διορισμοί Μονίμων (ΑΣΕΠ)"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/6Υ5Α46ΝΚΠΔ-Ζ40",
+   "source_url": "https://diavgeia.gov.gr/decision/view/6Υ5Α46ΝΚΠΔ-Ζ40",
+   "affected_by": []
+  },
+  {
+   "doc_id": "c974e0b2f9c65140",
+   "id": "ada:ΨΠΥΒ46ΝΚΠΔ-Χ59",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "«Ανάθεση υπηρεσιών παραγωγής και διανομής σχολικών βιβλίων μαθητών σε μορφή Braille για το σχολικό έτος 2026-2027»",
+   "summary": "«Ανάθεση υπηρεσιών παραγωγής και διανομής σχολικών βιβλίων μαθητών σε μορφή Braille για το σχολικό έτος 2026-2027»",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΨΠΥΒ46ΝΚΠΔ-Χ59",
+   "date": "2026-06-15",
+   "categories": [
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "Σχολική Ζωή & Φοίτηση Μαθητών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΨΠΥΒ46ΝΚΠΔ-Χ59",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΨΠΥΒ46ΝΚΠΔ-Χ59",
+   "affected_by": []
+  },
+  {
+   "doc_id": "1fba914a88a1a9c7",
+   "id": "ada:Ρ97Ω46ΝΚΠΔ-ΗΑΦ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "Χορήγηση μισθολογικών κλιμακίων  προσωρινών αναπληρωτών εκπαιδευτικών πλήρους και μειωμένου ωραρίου σχολικού έτους 2025-2026",
+   "summary": "Χορήγηση μισθολογικών κλιμακίων  προσωρινών αναπληρωτών εκπαιδευτικών πλήρους και μειωμένου ωραρίου σχολικού έτους 2025-2026",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "Ρ97Ω46ΝΚΠΔ-ΗΑΦ",
+   "date": "2026-06-15",
+   "categories": [
+    "Μισθολογικά / Οικονομικά",
+    "Προσλήψεις Αναπληρωτών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/Ρ97Ω46ΝΚΠΔ-ΗΑΦ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/Ρ97Ω46ΝΚΠΔ-ΗΑΦ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "c133404d4e55c5fb",
+   "id": "ada:ΡΟ0246ΝΚΠΔ-ΕΟΛ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "« Έγκριση προκήρυξης θέσης μέλους Διδακτικού Προσωπικού της Ανώτατης Εκκλησιαστικής Ακαδημίας Αθήνας»",
+   "summary": "« Έγκριση προκήρυξης θέσης μέλους Διδακτικού Προσωπικού της Ανώτατης Εκκλησιαστικής Ακαδημίας Αθήνας»",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΡΟ0246ΝΚΠΔ-ΕΟΛ",
+   "date": "2026-06-15",
+   "categories": [
+    "Διορισμοί Μονίμων (ΑΣΕΠ)"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΡΟ0246ΝΚΠΔ-ΕΟΛ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΡΟ0246ΝΚΠΔ-ΕΟΛ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "5fc3ad75948ef1ed",
+   "id": "ada:97ΗΔ46ΝΚΠΔ-Θ7Δ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "Πρόγραμμα εξετάσεων μαθημάτων γενικής παιδείας, ομάδων προσανατολισμού και ειδικών μαθημάτων, υποψηφίων της ειδικής κατηγορίας «Ελλήνων του εξωτερικού και τέκνων Ελλήνων υπαλλήλων που υπηρετούν στο εξωτερικό», για την εισαγωγή στην Τριτοβάθμια Εκπαίδευση, έτους 2026 και ορισμός προθεσμίας υγειονομικής εξέτασης και πρακτικής δοκιμασίας των υποψηφίων για εισαγωγή στα  ΤΕΦΑΑ.",
+   "summary": "Πρόγραμμα εξετάσεων μαθημάτων γενικής παιδείας, ομάδων προσανατολισμού και ειδικών μαθημάτων, υποψηφίων της ειδικής κατηγορίας «Ελλήνων του εξωτερικού και τέκνων Ελλήνων υπαλλήλων που υπηρετούν στο εξωτερικό», για την εισαγωγή στην Τριτοβάθμια Εκπαίδευση, έτους 2026 και ορισμός π",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "97ΗΔ46ΝΚΠΔ-Θ7Δ",
+   "date": "2026-06-15",
+   "categories": [
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/97ΗΔ46ΝΚΠΔ-Θ7Δ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/97ΗΔ46ΝΚΠΔ-Θ7Δ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "02fe768192c290f4",
+   "id": "ada:ΨΗΣΒ46ΝΚΠΔ-ΙΨΖ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "Aπαλλαγή καθηκόντων αναπληρώτριας διευθύντριας εκπαιδευτικού σχολικής μονάδας της ΔΠΕ Καστοριάς",
+   "summary": "Aπαλλαγή καθηκόντων αναπληρώτριας διευθύντριας εκπαιδευτικού σχολικής μονάδας της ΔΠΕ Καστοριάς",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΨΗΣΒ46ΝΚΠΔ-ΙΨΖ",
+   "date": "2026-06-15",
+   "categories": [
+    "Προσλήψεις Αναπληρωτών",
+    "Στελέχη / Επιλογή Διευθυντών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΨΗΣΒ46ΝΚΠΔ-ΙΨΖ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΨΗΣΒ46ΝΚΠΔ-ΙΨΖ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "0074c911cf2b0725",
+   "id": "ada:9Π3Ε46ΝΚΠΔ-ΠΝΛ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια",
+   "title": "«Ενέργειες προγραμματισμού του εκπαιδευτικού έργου των Ειδικών Νηπιαγωγείων και των Ειδικών Δημοτικών Σχολείων για το σχολικό έτος 2026-2027 – Προγραμματισμός λειτουργίας ολοήμερου προγράμματος – Λήξη διδασκαλίας μαθημάτων σχολικού έτους 2025-2026»",
+   "summary": "«Ενέργειες προγραμματισμού του εκπαιδευτικού έργου των Ειδικών Νηπιαγωγείων και των Ειδικών Δημοτικών Σχολείων για το σχολικό έτος 2026-2027 – Προγραμματισμός λειτουργίας ολοήμερου προγράμματος – Λήξη διδασκαλίας μαθημάτων σχολικού έτους 2025-2026»",
+   "keywords": [],
+   "doc_type": "Εγκύκλιος",
+   "fek_label": null,
+   "ada": "9Π3Ε46ΝΚΠΔ-ΠΝΛ",
+   "date": "2026-06-15",
+   "categories": [
+    "Νηπιαγωγείο / Ολοήμερο",
+    "Ωρολόγια & Προγράμματα Σπουδών",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/9Π3Ε46ΝΚΠΔ-ΠΝΛ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/9Π3Ε46ΝΚΠΔ-ΠΝΛ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "6f2dd7bd31d94982",
+   "id": "ada:ΨΠΡΞ46ΝΚΠΔ-ΧΒΜ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια",
+   "title": "ΠΛΗΡΩΜΗ ΕΞΟΔΩΝ ΚΙΝΗΣΗΣ - ΣΥΜΒΟΥΛΟΙ ΕΚΠΑΙΔΕΥΣΗΣ ΜΑΙΟΣ 2026",
+   "summary": "ΠΛΗΡΩΜΗ ΕΞΟΔΩΝ ΚΙΝΗΣΗΣ - ΣΥΜΒΟΥΛΟΙ ΕΚΠΑΙΔΕΥΣΗΣ ΜΑΙΟΣ 2026",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΨΠΡΞ46ΝΚΠΔ-ΧΒΜ",
+   "date": "2026-06-15",
+   "categories": [
+    "Στελέχη / Επιλογή Διευθυντών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΨΠΡΞ46ΝΚΠΔ-ΧΒΜ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΨΠΡΞ46ΝΚΠΔ-ΧΒΜ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "f8befa6225096697",
+   "id": "ada:ΨΙΡΓ46ΝΚΠΔ-Η70",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420405001 2026 ΡΑΛΛΗΣ.pdf",
+   "summary": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420405001 2026 ΡΑΛΛΗΣ.pdf",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΨΙΡΓ46ΝΚΠΔ-Η70",
+   "date": "2026-06-13",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΨΙΡΓ46ΝΚΠΔ-Η70",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΨΙΡΓ46ΝΚΠΔ-Η70",
+   "affected_by": []
+  },
+  {
+   "doc_id": "e39bd0e3a4839048",
+   "id": "ada:ΛΟΔΘ46ΝΚΠΔ-ΠΑΟ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420405001 2026 ΜΑΚΡΗΣ",
+   "summary": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420405001 2026 ΜΑΚΡΗΣ",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΛΟΔΘ46ΝΚΠΔ-ΠΑΟ",
+   "date": "2026-06-13",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΛΟΔΘ46ΝΚΠΔ-ΠΑΟ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΛΟΔΘ46ΝΚΠΔ-ΠΑΟ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "3dacc7eddda33b92",
+   "id": "ada:ΨΨΤΔ46ΝΚΠΔ-ΔΨΥ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420404001 2026 ΡΑΛΛΗΣ.pdf",
+   "summary": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420404001 2026 ΡΑΛΛΗΣ.pdf",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΨΨΤΔ46ΝΚΠΔ-ΔΨΥ",
+   "date": "2026-06-13",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΨΨΤΔ46ΝΚΠΔ-ΔΨΥ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΨΨΤΔ46ΝΚΠΔ-ΔΨΥ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "16356550cf0e385c",
+   "id": "ada:Ψ9ΠΨ46ΝΚΠΔ-Ε54",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420404001 2026 ΜΑΚΡΗ",
+   "summary": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420404001 2026 ΜΑΚΡΗ",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "Ψ9ΠΨ46ΝΚΠΔ-Ε54",
+   "date": "2026-06-13",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/Ψ9ΠΨ46ΝΚΠΔ-Ε54",
+   "source_url": "https://diavgeia.gov.gr/decision/view/Ψ9ΠΨ46ΝΚΠΔ-Ε54",
+   "affected_by": []
+  },
+  {
+   "doc_id": "2725e320ac0b73b3",
+   "id": "ada:Ρ07Ζ46ΝΚΠΔ-2Ε0",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420403001 2026 ΡΑΛΛΗΣ",
+   "summary": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420403001 2026 ΡΑΛΛΗΣ",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "Ρ07Ζ46ΝΚΠΔ-2Ε0",
+   "date": "2026-06-13",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/Ρ07Ζ46ΝΚΠΔ-2Ε0",
+   "source_url": "https://diavgeia.gov.gr/decision/view/Ρ07Ζ46ΝΚΠΔ-2Ε0",
+   "affected_by": []
+  },
+  {
+   "doc_id": "7c8ebaad64509aab",
+   "id": "ada:9ΠΓΔ46ΝΚΠΔ-064",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια · Υπουργείο Παιδείας, Θρησκευμάτων & Αθλητισμού",
+   "title": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420403001 2026 ΜΑΚΡΗΣ",
+   "summary": "ΑΝΑΛΗΨΗ ΥΠΟΧΡΕΩΣΗΣ 2420403001 2026 ΜΑΚΡΗΣ",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "9ΠΓΔ46ΝΚΠΔ-064",
+   "date": "2026-06-13",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/9ΠΓΔ46ΝΚΠΔ-064",
+   "source_url": "https://diavgeia.gov.gr/decision/view/9ΠΓΔ46ΝΚΠΔ-064",
+   "affected_by": []
+  },
+  {
+   "doc_id": "1a42ae1d5c832d02",
+   "id": "fek:ΦΕΚ 3358/Β/12-6-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 75707/Δ2/2026 - ΦΕΚ 3358/Β/12-6-2026",
+   "summary": "Αυτή η Υπουργική Απόφαση τροποποιεί προηγούμενη απόφαση σχετικά με τις προαγωγικές και απολυτήριες εξετάσεις του Γενικού Λυκείου, προσθέτοντας λεπτομέρειες για τον τρόπο εξέτασης και βαθμολόγησης του μαθήματος «Ηθική» από το σχολικό έτος 2026-2027. Επίσης, το ΦΕΚ περιλαμβάνει από",
+   "keywords": [
+    "ΦΕΚ",
+    "Υπουργική Απόφαση",
+    "Γενικό Λύκειο",
+    "Εξετάσεις",
+    "Ηθική",
+    "Βαθμολόγηση",
+    "ΕΚΠΑ",
+    "Εκπαιδευτική Νομοθεσία"
+   ],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 3358/Β/12-6-2026",
+   "ada": null,
+   "date": "2026-06-12",
+   "categories": [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": true,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203358.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-75707-d2-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "649b6152e44861b5",
+   "id": "fek:ΦΕΚ 3275/Β/11-6-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 72559/Δ3/2026 - ΦΕΚ 3275/Β/11-6-2026",
+   "summary": "Η παρούσα Υπουργική Απόφαση καθορίζει τις αναθέσεις μαθημάτων για τα Γυμνάσια και Λύκεια Ειδικής Αγωγής και Εκπαίδευσης (Ε.Α.Ε.) για τις τάξεις Α', Β' και Γ'. Περιγράφει αναλυτικά τις πρώτες, δεύτερες και τρίτες αναθέσεις ανά διδακτικό αντικείμενο και ειδικότητα εκπαιδευτικού, κα",
+   "keywords": [
+    "Αναθέσεις μαθημάτων",
+    "Ειδική Αγωγή",
+    "Γυμνάσια ΕΑΕ",
+    "Λύκεια ΕΑΕ",
+    "Εκπαιδευτικοί ειδικότητες",
+    "Ωρολόγιο πρόγραμμα",
+    "Σχολικός προσανατολισμός",
+    "Διδακτικό ωράριο"
+   ],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 3275/Β/11-6-2026",
+   "ada": null,
+   "date": "2026-06-11",
+   "categories": [
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "Ωρολόγια & Προγράμματα Σπουδών"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": true,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203275.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-72559-d3-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "59c0c08facbc2428",
+   "id": "ada:ΨΑΤΥ46ΝΚΠΔ-8ΨΚ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια",
+   "title": "XE 82635/2026_Ε.Φ. 1020-206-0000000_ΑΛΕ 2420989001_ΚΑΤΑΒΟΛΗ ΔΑΠΑΝΗΣ ΑΠΟΖΗΜΙΩΣΗΣ ΣΥΜΒΟΛΑΙΟΓΡΑΦΟΥ",
+   "summary": "XE 82635/2026_Ε.Φ. 1020-206-0000000_ΑΛΕ 2420989001_ΚΑΤΑΒΟΛΗ ΔΑΠΑΝΗΣ ΑΠΟΖΗΜΙΩΣΗΣ ΣΥΜΒΟΛΑΙΟΓΡΑΦΟΥ",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "ΨΑΤΥ46ΝΚΠΔ-8ΨΚ",
+   "date": "2026-06-11",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/ΨΑΤΥ46ΝΚΠΔ-8ΨΚ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/ΨΑΤΥ46ΝΚΠΔ-8ΨΚ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "391c716fd2836171",
+   "id": "ada:Ρ98846ΝΚΠΔ-3ΑΓ",
+   "year": "2026",
+   "source": "diavgeia",
+   "source_label": "Διαύγεια",
+   "title": "Δικαιολογητικά αποζημίωσης για μετακινήσεις εκτός έδρας",
+   "summary": "Δικαιολογητικά αποζημίωσης για μετακινήσεις εκτός έδρας",
+   "keywords": [],
+   "doc_type": "Κανονιστική Πράξη",
+   "fek_label": null,
+   "ada": "Ρ98846ΝΚΠΔ-3ΑΓ",
+   "date": "2026-06-11",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "diavgeia_decision",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://diavgeia.gov.gr/doc/Ρ98846ΝΚΠΔ-3ΑΓ",
+   "source_url": "https://diavgeia.gov.gr/decision/view/Ρ98846ΝΚΠΔ-3ΑΓ",
+   "affected_by": []
+  },
+  {
+   "doc_id": "13b483aa7344f673",
+   "id": "fek:ΦΕΚ 3208/Β/5-6-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ.253/65523/Α5/2026 - ΦΕΚ 3208/Β/5-6-2026",
+   "summary": "Το ΦΕΚ περιλαμβάνει δύο υπουργικές αποφάσεις σχετικές με την εκπαίδευση. Η πρώτη τροποποιεί τη διαδικασία καταχώρισης και αποστολής αποτελεσμάτων υγειονομικών και πρακτικών εξετάσεων για την εισαγωγή στην Τριτοβάθμια Εκπαίδευση, με ισχύ από τις πανελλαδικές εξετάσεις του 2026. Η ",
+   "keywords": [
+    "Υπουργική Απόφαση",
+    "εκπαιδευτική νομοθεσία",
+    "πανελλαδικές εξετάσεις",
+    "ιδιωτικό νηπιαγωγείο",
+    "υγειονομική εξέταση",
+    "πρακτική δοκιμασία",
+    "άδεια λειτουργίας",
+    "ΥΠΑΙΘΑ"
+   ],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 3208/Β/5-6-2026",
+   "ada": null,
+   "date": "2026-06-05",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": true,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203208.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/ya-ph253-65523-a5-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "f39420975ca24756",
+   "id": "fek:ΦΕΚ 3216/Β/5-6-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 69785/Δ3/2026 - ΦΕΚ 3216/Β/5-6-2026",
+   "summary": "Η Υπουργική Απόφαση 69785/Δ3/2026 καθορίζει τις αναθέσεις μαθημάτων για όλες τις τάξεις του Γυμνασίου και του Λυκείου των Ενιαίων Ειδικών Επαγγελματικών Γυμνασίων-Λυκείων (ΕΝ.Ε.Ε.ΓΥ.-Λ.). Περιγράφει αναλυτικά τις πρώτες, δεύτερες και τρίτες αναθέσεις για κάθε διδακτικό αντικείμεν",
+   "keywords": [
+    "Αναθέσεις μαθημάτων",
+    "ΕΝ.Ε.Ε.ΓΥ.-Λ.",
+    "Ειδική αγωγή",
+    "Εκπαιδευτικοί κλάδοι",
+    "Γυμνάσιο",
+    "Λύκειο",
+    "Επαγγελματική εκπαίδευση",
+    "Υπουργική Απόφαση"
+   ],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 3216/Β/5-6-2026",
+   "ada": null,
+   "date": "2026-06-05",
+   "categories": [
+    "Ωρολόγια & Προγράμματα Σπουδών",
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": true,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203216.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-69785-d3-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "8ccb1085f827410c",
+   "id": "fek:ΦΕΚ 3159/Β/4-6-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 72907/ΓΔ4/2026 - ΦΕΚ 3159/Β/4-6-2026",
+   "summary": "Η Υπουργική Απόφαση καθορίζει τη διαδικασία επιλογής διδακτικών βιβλίων και πακέτων από τους εκπαιδευτικούς πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης για το σχολικό έτος 2027-2028. Η επιλογή γίνεται από το Μητρώο Διδακτικών Βιβλίων (Μ.Δ.Β.) και την Ψηφιακή Βιβλιοθήκη (Ψ.Β.Δ.Β. ",
+   "keywords": [
+    "Διδακτικά Βιβλία",
+    "Διδακτικά Πακέτα",
+    "Επιλογή",
+    "Σχολικό Έτος 2027-2028",
+    "Μητρώο Διδακτικών Βιβλίων",
+    "Ψηφιακή Βιβλιοθήκη",
+    "Σύστημα «Ορφέας»",
+    "Εκπαιδευτικοί"
+   ],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 3159/Β/4-6-2026",
+   "ada": null,
+   "date": "2026-06-04",
+   "categories": [
+    "Ωρολόγια & Προγράμματα Σπουδών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": true,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203159.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-72907-gd4-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "87aa0ed70152da20",
+   "id": "fek:ΦΕΚ 3147/Β/3-6-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ20/69932/Δ4/2026 - ΦΕΚ 3147/Β/3-6-2026",
+   "summary": "Η Υπουργική Απόφαση Φ20/69932/Δ4/2026 τροποποιεί προηγούμενη απόφαση σχετικά με τον καθορισμό Τομέων και Ειδικοτήτων στα Επαγγελματικά Λύκεια (ΕΠΑ.Λ. - Π.ΕΠΑ.Λ.) για το σχολικό έτος 2026-2027. Συγκεκριμένα, προσθέτει νέες ειδικότητες σε τρεις σχολικές μονάδες: «Υπάλληλος Τουριστι",
+   "keywords": [
+    "ΕΠΑΛ",
+    "ειδικότητες",
+    "τομείς",
+    "εκπαίδευση",
+    "τροποποίηση",
+    "σχολικό έτος 2026-2027",
+    "Υπουργική Απόφαση",
+    "επαγγελματική εκπαίδευση"
+   ],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 3147/Β/3-6-2026",
+   "ada": null,
+   "date": "2026-06-03",
+   "categories": [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": true,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203147.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-ph20-69932-d4-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "ad4d24063e28cf4c",
+   "id": "fek:ΦΕΚ 2922/Β/22-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ20/61664/Δ4/2026 - ΦΕΚ 2922/Β/22-5-2026",
+   "summary": "Η Υπουργική Απόφαση Φ20/61664/Δ4/2026 καθορίζει τους Τομείς και τις Ειδικότητες που θα λειτουργήσουν στα Επαγγελματικά Λύκεια (ΕΠΑ.Λ. και Π.ΕΠΑ.Λ.) για το σχολικό έτος 2026-2027. Η απόφαση περιλαμβάνει αναλυτικούς πίνακες με τις προσφερόμενες ειδικότητες ανά σχολική μονάδα και Πε",
+   "keywords": [
+    "ΕΠΑ.Λ.",
+    "Π.ΕΠΑ.Λ.",
+    "Τομείς",
+    "Ειδικότητες",
+    "Σχολικό έτος 2026-2027",
+    "Επαγγελματική Εκπαίδευση",
+    "Υπουργική Απόφαση"
+   ],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 2922/Β/22-5-2026",
+   "ada": null,
+   "date": "2026-05-22",
+   "categories": [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": true,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202922.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-ph20-61664-d4-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "20e803d233bc00cc",
+   "id": "fek:ΦΕΚ 2848/Β/21-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ.253.1/62166/Α5/2026 - ΦΕΚ 2848/Β/21-5-2026",
+   "summary": "Τροποποίηση της υπό στοιχεία Φ.253.1/62264/Α5/31-5-2021 υπουργικής απόφασης «Καθορισμός των συντελεστών βαρύτητας των πανελλαδικά εξεταζόμενων μαθημάτων και των ειδικών μαθημάτων, για εισαγωγή στις σχολές των Α.Σ.Ε.Ι. και Α.Σ.Σ.Υ., στη Σ.Σ.Α.Σ., στις σχολές της Αστυνομικής και Πυ",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 2848/Β/21-5-2026",
+   "ada": null,
+   "date": "2026-05-21",
+   "categories": [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202848.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-ph253-1-62166-a5-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "7e2e481a534ea2c3",
+   "id": "fek:ΦΕΚ 75/Α/18-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Προεδρικό Διάταγμα 28/2026 - ΦΕΚ 75/Α/18-5-2026",
+   "summary": "Οργανισμός διοίκησης και λειτουργίας της Εθνικής Βιβλιοθήκης της Ελλάδας.",
+   "keywords": [],
+   "doc_type": "Προεδρικό Διάταγμα",
+   "fek_label": "ΦΕΚ 75/Α/18-5-2026",
+   "ada": null,
+   "date": "2026-05-18",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2026/20260100075.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/proedriko-diatagma-28-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "c617e6f544753383",
+   "id": "fek:ΦΕΚ 2768/Β/18-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ.253/56199/Α5/2026 - ΦΕΚ 2768/Β/18-5-2026",
+   "summary": "Τροποποίηση της υπό στοιχεία Φ.251/54022/Α5/2023 υπουργικής απόφασης «Ρυθμίσεις θεμάτων εισαγωγής στην τριτοβάθμια εκπαίδευση τα ακαδ. έτη 2023-2024, 2024-2025 και 2025-2026 των συγγενών των θυμάτων και των πληγέντων του σιδηροδρομικού δυστυχήματος των Τεμπών της 28ης Φεβρουαρίου",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 2768/Β/18-5-2026",
+   "ada": null,
+   "date": "2026-05-18",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202768.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-ph253-56199-a5-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "22355fc077590d09",
+   "id": "fek:ΦΕΚ 72/Α/15-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Προεδρικό Διάταγμα 26/2026 - ΦΕΚ 72/Α/15-5-2026",
+   "summary": "Ίδρυση Εταιρείας Αξιοποίησης και Διαχείρισης της Περιουσίας του Παντείου Πανεπιστημίου Κοινωνικών και Πολιτικών Επιστημών.",
+   "keywords": [],
+   "doc_type": "Προεδρικό Διάταγμα",
+   "fek_label": "ΦΕΚ 72/Α/15-5-2026",
+   "ada": null,
+   "date": "2026-05-15",
+   "categories": [
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2026/20260100072.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/proedriko-diatagma-26-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "5fffc0c050ad6b40",
+   "id": "fek:ΦΕΚ 2650/Β/13-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση 57176/Υ1/2026 - ΦΕΚ 2650/Β/13-5-2026",
+   "summary": "Διαδικασία μετάταξης εκπαιδευτικών της πρωτοβάθμιας ή δευτεροβάθμιας εκπαίδευσης στην Κεντρική Υπηρεσία, σε περιφερειακές και αποκεντρωμένες υπηρεσίες ή σε εποπτευόμενους φορείς του Υπουργείου Παιδείας, Θρησκευμάτων και Αθλητισμού, βάσει της παρ. 16 του άρθρου 6 του ν. 2740/1999 ",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 2650/Β/13-5-2026",
+   "ada": null,
+   "date": "2026-05-13",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Πρωτοβάθμια",
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202650.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/kya-57176-u1-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "e45d76a7f4b9ef02",
+   "id": "fek:ΦΕΚ 2649/Β/13-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ.153/55492/Α5/2026 - ΦΕΚ 2649/Β/13-5-2026",
+   "summary": "Τροποποίηση της υπό στοιχεία Φ.153/18380/Α5/18-2-2025 υπουργικής απόφασης «Κατάταξη των Σχολών, Τμημάτων και Εισαγωγικών Κατευθύνσεων Τμημάτων των Α.Ε.Ι. στους Τομείς και την Κοινή Ομάδα των ΕΠΑ.Λ. για την εισαγωγή στην Τριτοβάθμια Εκπαίδευση αποφοίτων ΕΠΑ.Λ. για το ακαδημαϊκό έτ",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 2649/Β/13-5-2026",
+   "ada": null,
+   "date": "2026-05-13",
+   "categories": [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202649.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-ph153-55492-a5-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "30934599f5ef9069",
+   "id": "fek:ΦΕΚ 2639/Β/12-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση 55909/Δ6/2026 - ΦΕΚ 2639/Β/12-5-2026",
+   "summary": "Καθορισμός ζητημάτων σχετικών με τη χρήση συστημάτων τεχνητής νοημοσύνης κατά την εκπαιδευτική διαδικασία και την προστασία δεδομένων προσωπικού χαρακτήρα.",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 2639/Β/12-5-2026",
+   "ada": null,
+   "date": "2026-05-12",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202639.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/kya-55909-d6-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "f2194860b744e9af",
+   "id": "fek:ΦΕΚ 2547/Β/7-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ.253/51145/Α5/2026 - ΦΕΚ 2547/Β/7-5-2026",
+   "summary": "Τροποποίηση και συμπλήρωση της υπό στοιχεία Φ.251/25089/Α5/20.2.2020 υπουργικής απόφασης «Πρόσβαση στην τριτοβάθμια εκπαίδευση, διαδικασίες και όργανα σχετικά με τις πανελλαδικές εξετάσεις Γενικού Λυκείου από το 2020 και εφεξής, με το \"νέο\" σύστημ του ν. 4186/2013 (Α' 193), όπως ",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 2547/Β/7-5-2026",
+   "ada": null,
+   "date": "2026-05-07",
+   "categories": [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202547.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/ya-ph253-51145-a5-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "d933c2a9d574d566",
+   "id": "fek:ΦΕΚ 2583/Β/7-5-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 54058/Δ2/2026 - ΦΕΚ 2583/Β/7-5-2026",
+   "summary": "Αναθέσεις μαθημάτων Γυμνασίου και Γενικού Λυκείου",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 2583/Β/7-5-2026",
+   "ada": null,
+   "date": "2026-05-07",
+   "categories": [
+    "Ωρολόγια & Προγράμματα Σπουδών"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202583.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-54058-d2-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "ba851a0b85cf4053",
+   "id": "fek:ΦΕΚ 2140/Β/15-4-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Απόφαση 44782/Κ1/2026 - ΦΕΚ 2140/Β/15-4-2026",
+   "summary": "Καθορισμός τεχνικών και διαδικαστικών λεπτομερειών για την οργάνωση και υλοποίηση της τηλεκπαίδευσης στα Σχολεία Δεύτερης Ευκαιρίας (Σ.Δ.Ε.).",
+   "keywords": [],
+   "doc_type": "Απόφαση",
+   "fek_label": "ΦΕΚ 2140/Β/15-4-2026",
+   "ada": null,
+   "date": "2026-04-15",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202140.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/apophase-44782-k1-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "3faa40720f601be8",
+   "id": "enom:https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/egkuklios-35064-n1-20-03-2026.html",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Εγκύκλιος 35064/Ν1/20-03-2026 [20-3-2026]",
+   "summary": "Διευκρινίσεις σχετικά με την εφαρμογή της ΚΥΑ 24350/Ν1/27-02-2026 (Β΄1084) - Ψηφιοποίηση διοικητικής διαδικασίας Αναγγελίας Έναρξης Άσκησης του Επαγγέλματος της Διδασκαλίας σε Φροντιστήρια, Κέντρα Ξένων Γλωσσών και κατ’ οίκον - Ειδική Ηλεκτρονική Εφαρμογή",
+   "keywords": [],
+   "doc_type": "Εγκύκλιος",
+   "fek_label": null,
+   "ada": null,
+   "date": "2026-03-23",
+   "categories": [
+    "Ιδιωτική Εκπαίδευση",
+    "Άδεια Άσκησης Ιδιωτικού Έργου / Επαγγέλματος",
+    "Ωρολόγια & Προγράμματα Σπουδών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "official_circular",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": null,
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/egkuklios-35064-n1-20-03-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "ca65306a803106a8",
+   "id": "fek:ΦΕΚ 1522/Β/17-3-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση 5136/2026 - ΦΕΚ 1522/Β/17-3-2026",
+   "summary": "Ένταξη εξήντα οκτώ (68) δημοτικών σχολείων στο πρόγραμμα «Σχολικά Γεύματα» για το σχολικό έτος 2025-2026.",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 1522/Β/17-3-2026",
+   "ada": null,
+   "date": "2026-03-17",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201522.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/kya-5136-202.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "3be5106ae94bdba9",
+   "id": "fek:ΦΕΚ 1197/Β/6-3-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ.253/21193/Α5/2026 - ΦΕΚ 1197/Β/6-3-2026",
+   "summary": "Τροποποίηση και συμπλήρωση της υπό στοιχεία Φ.253/75425/Β6/26.6.2009 υπουργικής απόφασης «Επίδειξη γραπτών δοκιμίων πανελληνίων εξετάσεων» (Β' 1369).",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 1197/Β/6-3-2026",
+   "ada": null,
+   "date": "2026-03-06",
+   "categories": [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201197.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/ya-ph253-21193-a5-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "cb4921718976bc55",
+   "id": "fek:ΦΕΚ 1122/Β/5-3-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 26786/ΓΔ4/2026 - ΦΕΚ 1122/Β/5-3-2026",
+   "summary": "Συμμετοχή σχολικών μονάδων στις εξετάσεις διαγνωστικού χαρακτήρα που θα διενεργηθούν σε εθνικό επίπεδο για τους/τις μαθητές/τριες της ΣΤ' Τάξης των Δημοτικών Σχολείων και της Γ' Τάξης των Γυμνασίων στα γνωστικά αντικείμενα της Νεοελληνικής Γλώσσας και των Μαθηματικών, για το σχολ",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 1122/Β/5-3-2026",
+   "ada": null,
+   "date": "2026-03-05",
+   "categories": [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια"
+   ],
+   "levels": [
+    "Πρωτοβάθμια",
+    "Δευτεροβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201122.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/ya-26786-gd4-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "3180d4d2e13453a8",
+   "id": "fek:ΦΕΚ 1084/Β/27-2-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση 24350/Ν1/2026 - ΦΕΚ 1084/Β/27-2-2026",
+   "summary": "Αναγγελία της έναρξης άσκησης του επαγγέλματος της διδασκαλίας σε φροντιστήρια, κέντρα ξένων γλωσσών και της κατ' οίκον διδασκαλίας μέσω ειδικής ψηφιακής εφαρμογής.",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 1084/Β/27-2-2026",
+   "ada": null,
+   "date": "2026-02-27",
+   "categories": [
+    "Ιδιωτική Εκπαίδευση",
+    "Άδεια Άσκησης Ιδιωτικού Έργου / Επαγγέλματος",
+    "Ωρολόγια & Προγράμματα Σπουδών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201084.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/kya-24350-n1-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "341dff85239f8a68",
+   "id": "fek:ΦΕΚ 984/Β/25-2-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 22039/Δ6/2026 - ΦΕΚ 984/Β/25-2-2026",
+   "summary": "Καθορισμός του Δήμου ή του είδους της γεωγραφικής υποδιαίρεσης του Δήμου για κάθε Δημόσιο Ωνάσειο Σχολείο, του ελάχιστου ποσοστού επιλογής μαθητών, των απαιτούμενων δικαιολογητικών για την απόδειξη του τόπου συνήθους διαμονής σε εφαρμογή",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 984/Β/25-2-2026",
+   "ada": null,
+   "date": "2026-02-25",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260200984.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/ya-22039-d6-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "9c35b0dfee5efb51",
+   "id": "enom:https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/egkuklios-ph-623198-d1-25-02-2026.html",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Εγκύκλιος Φ.6/23198/Δ1/25-02-2026",
+   "summary": "Εγγραφές μαθητών/τριών στα Δημοτικά Σχολεία για το σχολικό έτος 2026-2027",
+   "keywords": [],
+   "doc_type": "Εγκύκλιος",
+   "fek_label": null,
+   "ada": null,
+   "date": "2026-02-25",
+   "categories": [
+    "Σχολική Ζωή & Φοίτηση Μαθητών"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "official_circular",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": null,
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/egkuklios-ph-623198-d1-25-02-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "66834b3e682380d0",
+   "id": "enom:https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/egkuklios-ph-623211-d1-25-02-2026.html",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Εγκύκλιος Φ.6/23211/Δ1/25-02-2026",
+   "summary": "Εγγραφές μαθητών/τριών στα Νηπιαγωγεία για το σχολικό έτος 2026-2027",
+   "keywords": [],
+   "doc_type": "Εγκύκλιος",
+   "fek_label": null,
+   "ada": null,
+   "date": "2026-02-25",
+   "categories": [
+    "Σχολική Ζωή & Φοίτηση Μαθητών",
+    "Νηπιαγωγείο / Ολοήμερο"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "official_circular",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": null,
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/egkuklios-ph-623211-d1-25-02-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "a5c937b05b72fe22",
+   "id": "fek:ΦΕΚ 339/Β/2-2-2026",
+   "year": "2026",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση Φ12/7404/Δ1/2026 - ΦΕΚ 339/Β/2-2-2026",
+   "summary": "Ρυθμίσεις για το νέο αναβαθμισμένο πρόγραμμα ολοήμερου Δημοτικού Σχολείου και Νηπιαγωγείου, για το σχολικό έτος 2026-2027.",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 339/Β/2-2-2026",
+   "ada": null,
+   "date": "2026-02-02",
+   "categories": [
+    "Νηπιαγωγείο / Ολοήμερο"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260200339.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/ya-ph12-7404-d1-2026.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "bce47fc750bb3ac6",
+   "id": "fek:ΦΕΚ 6316/Β/25-11-2025",
+   "year": "2025",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 150115/Δ1/2025 - ΦΕΚ 6316/Β/25-11-2025",
+   "summary": "Πρόγραμμα Σπουδών για το μάθημα της Ηθικής στις Γ, Δ, Ε και ΣΤ τάξεις Δημοτικού Σχολείου.",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 6316/Β/25-11-2025",
+   "ada": null,
+   "date": "2025-11-25",
+   "categories": [
+    "Ωρολόγια & Προγράμματα Σπουδών"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250206316.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/ya-150115-d1-2025.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "d04fabdde5386948",
+   "id": "fek:ΦΕΚ 5381/Β/8-10-2025",
+   "year": "2025",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση 14457/2025 - ΦΕΚ 5381/Β/8-10-2025",
+   "summary": "Υλοποίηση του προγράμματος «Σχολικά Γεύματα» στα Δημοτικά Σχολεία της χώρας για το σχολικό έτος 2025-2026.",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 5381/Β/8-10-2025",
+   "ada": null,
+   "date": "2025-10-08",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250205381.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/kya-14457-2025.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "0007e88d71492e04",
+   "id": "enom:https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/egkuklios-ph7-115075-d1-2025.html",
+   "year": "2025",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Εγκύκλιος Φ.7/115075/Δ1/2025 [18-9-2025]",
+   "summary": "Φοίτηση των μαθητών/τριών στο Ολοήμερο Πρόγραμμα των Νηπιαγωγείων και Δημοτικών Σχολείων",
+   "keywords": [],
+   "doc_type": "Εγκύκλιος",
+   "fek_label": null,
+   "ada": null,
+   "date": "2025-09-18",
+   "categories": [
+    "Νηπιαγωγείο / Ολοήμερο",
+    "Σχολική Ζωή & Φοίτηση Μαθητών"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "official_circular",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": null,
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/egkuklios-ph7-115075-d1-2025.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "4d9313099234182c",
+   "id": "fek:ΦΕΚ 4893/Β/15-9-2025",
+   "year": "2025",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Απόφαση 109189/Κ6/2025 - ΦΕΚ 4893/Β/15-9-2025",
+   "summary": "Κανονισμός Λειτουργίας Ιδιωτικών Σχολών Ανώτερης Επαγγελματικής Κατάρτισης (Ι.Σ.Α.Ε.Κ.) που εποπτεύονται από τη Γενική Γραμματεία Επαγγελματικής Εκπαίδευσης, Κατάρτισης και Διά Βίου Μάθησης (Γ.Γ.Ε.Ε.Κ. και Δ.Β.Μ.) του Υπουργείου Παιδείας, Θρησκευμάτων και",
+   "keywords": [],
+   "doc_type": "Απόφαση",
+   "fek_label": "ΦΕΚ 4893/Β/15-9-2025",
+   "ada": null,
+   "date": "2025-09-15",
+   "categories": [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση",
+    "Οργάνωση & Διοίκηση Σχολείων",
+    "Ιδιωτική Εκπαίδευση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204893.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/apophase-109189-k6-2025.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "ef4d99d23c3c4f81",
+   "id": "fek:ΦΕΚ 4589/Β/22-8-2025",
+   "year": "2025",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 7612/2025 - ΦΕΚ 4589/Β/22-8-2025",
+   "summary": "Αναστολή λειτουργίας Νηπιαγωγείων και Δημοτικών Σχολείων Περιφέρειας Πελοποννήσου για το σχολικό έτος 2025-2026.",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 4589/Β/22-8-2025",
+   "ada": null,
+   "date": "2025-08-22",
+   "categories": [
+    "Οργάνωση & Διοίκηση Σχολείων",
+    "Νηπιαγωγείο / Ολοήμερο"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204589.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/ya-7612-2025.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "9eac154d26a2e410",
+   "id": "fek:ΦΕΚ 4582/Β/22-8-2025",
+   "year": "2025",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Απόφαση 6423/2025 - ΦΕΚ 4582/Β/22-8-2025",
+   "summary": "Αναστολή λειτουργίας σχολικών μονάδων Δυτικής Μακεδονίας για το σχολικό έτος 2025-2026.",
+   "keywords": [],
+   "doc_type": "Απόφαση",
+   "fek_label": "ΦΕΚ 4582/Β/22-8-2025",
+   "ada": null,
+   "date": "2025-08-22",
+   "categories": [
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204582.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/apophase-6423-2025.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "6851b2c1cbc26849",
+   "id": "fek:ΦΕΚ 4552/Β/20-8-2025",
+   "year": "2025",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση Φ.10/100609/Δ1/2025 - ΦΕΚ 4552/Β/20-8-2025",
+   "summary": "Ιδρύσεις, Καταργήσεις, Συγχωνεύσεις, Υποβιβασμοί και Προαγωγές Δημοτικών Σχολείων και Νηπιαγωγείων 2025-2026 - Μετονομασία Τμημάτων Ένταξης.",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 4552/Β/20-8-2025",
+   "ada": null,
+   "date": "2025-08-20",
+   "categories": [
+    "Οργάνωση & Διοίκηση Σχολείων",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "Νηπιαγωγείο / Ολοήμερο"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204552.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/kya-ph10-100609-d1-2025.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "d5f10881b8cc5cec",
+   "id": "seed:142/Α/2025",
+   "year": "2025",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 5224/2025 — άρθρο 117 (φοίτηση μαθητών με αναπηρία/ειδικές εκπαιδευτικές ανάγκες· τροποποιεί τον ν.3699/2008: ένας εκπ/κός ΕΑΕ υποστηρίζει το σύνολο των μαθητών με έγκριση ΠΣ στο τμήμα, έως 2 εκπ/κοί ΕΑΕ σε τμήμα με σοβαρότερες ανάγκες). Ισχύς από 1-9-2025. ΕΙΝΑΙ Η ΣΤΑΤΟΥΤΑΡΧΙΚΗ ΒΑΣΗ της επίμαχης εγκυκλίου 122194/ΓΔ4/2025",
+   "summary": "ΠΡΟΣΦΑΤΗ ΑΛΛΑΓΗ — ειδική αγωγή: παράλληλη στήριξη, τμήματα ένταξης, ΚΕΔΑΣΥ/ΕΔΥ",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 142/Α/2025",
+   "ada": null,
+   "date": "2025-01-01",
+   "categories": [
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "Σχολική Ζωή & Φοίτηση Μαθητών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΠΡΟΣΦΑΤΗ ΑΛΛΑΓΗ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2025/20250100142.pdf",
+   "source_url": "https://www.taxheaven.gr/law/5224/2025/arthro/117/paragrafos/1",
+   "affected_by": []
+  },
+  {
+   "doc_id": "d6c938f9c206355a",
+   "id": "seed:Εγκύκλιος ΥΠΑΙΘΑ Α.Π. 122194/ΓΔ4 (1-10-2025) — Διευκρινιστικές οδηγίες",
+   "year": "2025",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Εγκύκλιος ΥΠΑΙΘΑ Α.Π. 122194/ΓΔ4 (1-10-2025) — Διευκρινιστικές οδηγίες ν.3699/2008 όπως ισχύει (μετά ν.5224/2025): υποστήριξη «κυρίως εντός τάξης», υποχρεωτική συνδιδασκαλία, κατανομή ωρών από Σύλλογο Διδασκόντων+ΕΔΥ. Καταγγέλλεται από φορείς. ΑΔΑ προς επιβεβαίωση στη Διαύγεια",
+   "summary": "ΠΡΟΣΦΑΤΗ & ΑΜΦΙΛΕΓΟΜΕΝΗ — διευκρινίσεις ειδικής αγωγής",
+   "keywords": [],
+   "doc_type": "Εγκύκλιος",
+   "fek_label": null,
+   "ada": null,
+   "date": "2025-01-01",
+   "categories": [
+    "Ωρολόγια & Προγράμματα Σπουδών",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΠΡΟΣΦΑΤΗ ΑΛΛΑΓΗ",
+   "enriched": false,
+   "authority_level": "official_circular",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://www.esos.gr/arthra/95558/egkyklios-me-24-dieykriniseis-gia-tin-eidiki-agogi-kai-ekpaideysi-atomon-me-anapiria-i",
+   "source_url": "https://www.esos.gr/arthra/95558/egkyklios-me-24-dieykriniseis-gia-tin-eidiki-agogi-kai-ekpaideysi-atomon-me-anapiria-i",
+   "affected_by": []
+  },
+  {
+   "doc_id": "db0f523076c213fa",
+   "id": "fek:ΦΕΚ 7641/Β/31-12-2024",
+   "year": "2024",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση 137145/Ν1/2024 - ΦΕΚ 7641/Β/31-12-2024",
+   "summary": "Τροποποίηση της υπ' αρ. 10135/18-11-2012 κοινής υπουργικής απόφασης των Υπουργών Οικονομικών και Παιδείας και Θρησκευμάτων, Πολιτισμού και Αθλητισμού «Καθορισμός ποσού παραβόλων και χρηματικών ποσών για παρόχους ιδιωτικής εκπαίδευσης και κατάρτισης κατά την παρ. Θ του πρώτου άρθρ",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 7641/Β/31-12-2024",
+   "ada": null,
+   "date": "2024-12-31",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2024/20240207641.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/kya-137145-n1-2024.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "c6ab9681685122b3",
+   "id": "fek:ΦΕΚ 633/Β/29-1-2024",
+   "year": "2024",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Υπουργική Απόφαση 8778/Ν1/2024 - ΦΕΚ 633/Β/29-1-2024",
+   "summary": "Τροποποίηση της υπό στοιχεία 219434/Α5/ 21.12.2016 υπουργικής απόφασης «Ημέρες διακοπών και αργιών φροντιστηρίων και κέντρων ξένων γλωσσών» (Β' 4212).",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 633/Β/29-1-2024",
+   "ada": null,
+   "date": "2024-01-29",
+   "categories": [
+    "Ιδιωτική Εκπαίδευση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2024/20240200633.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/ya-8778-n1-2024.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "e03c95bd1f64791c",
+   "id": "seed:5387/Β/2024",
+   "year": "2024",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Υ.Α. 109697/ΓΔ4/2024 — Πρότυπος Κανονισμός Λειτουργίας σχολικών μονάδων Πρωτοβάθμιας & Δευτεροβάθμιας Εκπαίδευσης (αντικατέστησε από 26-09-2024 την Υ.Α. 13423/ΓΔ4/2021)",
+   "summary": "Κανονισμός λειτουργίας σχολικών μονάδων (ΙΣΧΥΩΝ)",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 5387/Β/2024",
+   "ada": null,
+   "date": "2024-01-01",
+   "categories": [
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Πρωτοβάθμια",
+    "Δευτεροβάθμια"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2024/20240205387.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/ya-109697-gd4-2024.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "2bb983269defd57f",
+   "id": "seed:9/Α/2024",
+   "year": "2024",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 5082/2024 — Ενίσχυση Εθνικού Συστήματος Επαγγελματικής Εκπαίδευσης & Κατάρτισης (τροποποιεί διατάξεις αξιολόγησης/επιλογής στελεχών του ν.4823/2021· εύρος ανά άρθρο προς επιβεβαίωση)",
+   "summary": "ΠΡΟΣΦΑΤΗ ΑΛΛΑΓΗ — αξιολόγηση/επιλογή στελεχών/ΕΕΚ",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 9/Α/2024",
+   "ada": null,
+   "date": "2024-01-01",
+   "categories": [
+    "Στελέχη / Επιλογή Διευθυντών",
+    "Αξιολόγηση Εκπαιδευτικών & Σχ. Μονάδων",
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100009.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/nomos-5082-2024.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "a6aa0963253eb7fc",
+   "id": "seed:Σύντομος Οδηγός Αδειών Αναπληρωτών ΕΣΠΑ — Δ.Δ.Ε. Εύβοιας (πίνακας ημερ",
+   "year": "2024",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Σύντομος Οδηγός Αδειών Αναπληρωτών ΕΣΠΑ — Δ.Δ.Ε. Εύβοιας (πίνακας ημερών & νομικών παραπομπών· κωδικοποιεί π.δ.410/1988, ν.3528/2007, ν.4674/2020 αρ.47, ν.4808/2021, Α.Κ. 657-658 κ.λπ.). Πρακτική πηγή, όχι ΦΕΚ — διασταύρωση με οικεία ΠΔΕ",
+   "summary": "Άδειες αναπληρωτών ΕΣΠΑ — κωδικοποιημένος πρακτικός οδηγός Δ/νσης Εκπαίδευσης",
+   "keywords": [],
+   "doc_type": "Οδηγός",
+   "fek_label": null,
+   "ada": null,
+   "date": "2024-01-01",
+   "categories": [
+    "Προσλήψεις Αναπληρωτών",
+    "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΟΔΗΓΟΣ",
+   "enriched": false,
+   "authority_level": "official_guide",
+   "verification_status": "needs_primary_source",
+   "legal_disclaimer_required": true,
+   "official_url": "https://dide.evr.sch.gr/wp-content/uploads/2024/08/Odigos-Adeies-Anaplirwtes.pdf",
+   "source_url": "https://dide.evr.sch.gr/wp-content/uploads/2024/08/Odigos-Adeies-Anaplirwtes.pdf",
+   "affected_by": []
+  },
+  {
+   "doc_id": "514a9e76a1a92d47",
+   "id": "enom:https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/egkuklios-k5-9884-2023.html",
+   "year": "2023",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Εγκύκλιος Κ5/9884/2023 [30-1-2023] - Στεγαστικό επίδομα καταρτιζόμενων ΙΕΚ",
+   "summary": "Στεγαστικό επίδομα καταρτιζόμενων Ι.Ε.Κ. - Υ.ΠΑΙ.Θ.",
+   "keywords": [],
+   "doc_type": "Εγκύκλιος",
+   "fek_label": null,
+   "ada": null,
+   "date": "2023-01-31",
+   "categories": [
+    "Μισθολογικά / Οικονομικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "official_circular",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": null,
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/egkuklios-k5-9884-2023.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "1c00ab567f4dedb2",
+   "id": "fek:ΦΕΚ 4264/Β/10-8-2022",
+   "year": "2022",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Απόφαση 98750/Κ6/2022 - ΦΕΚ 4264/Β/10-8-2022 (Καταργημένη)",
+   "summary": "Κανονισμός Λειτουργίας Ιδιωτικών Ινστιτούτων Επαγγελματικής Κατάρτισης (Ι.Ι.Ε.Κ.) που εποπτεύονται από τη Γενική Γραμματεία Επαγγελματικής Εκπαίδευσης, Κατάρτισης, Διά Βίου Μάθησης και Νεολαίας (Γ.Γ.Ε.Ε.Κ.Δ.Β.Μ.&Ν.) του Υπουργείου Παιδείας και Θρησκευμάτω",
+   "keywords": [],
+   "doc_type": "Απόφαση",
+   "fek_label": "ΦΕΚ 4264/Β/10-8-2022",
+   "ada": null,
+   "date": "2022-08-10",
+   "categories": [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220204264.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/apophase-98750-k6-2022-phek-4264b-10-8-2022.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "b5da8981ed0e8921",
+   "id": "fek:ΦΕΚ 2662/Β/30-5-2022",
+   "year": "2022",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Απόφαση Κ5/63547/2022 - ΦΕΚ 2662/Β/30-5-2022",
+   "summary": "Ειδικότητες παράλληλου μηχανογραφικού δελτίου για την εισαγωγή καταρτιζόμενων στα Δημόσια Ι.Ε.Κ.",
+   "keywords": [],
+   "doc_type": "Απόφαση",
+   "fek_label": "ΦΕΚ 2662/Β/30-5-2022",
+   "ada": null,
+   "date": "2022-05-30",
+   "categories": [
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220202662.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/apophase-k5-63547-2022-phek-2662b-30-5-2022.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "59328e1597abd3c8",
+   "id": "fek:ΦΕΚ 2661/Β/30-5-2022",
+   "year": "2022",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Απόφαση 63536/Κ5/2022 - ΦΕΚ 2661/Β/30-5-2022",
+   "summary": "Καθορισμός των ειδικοτήτων που παρέχονται από τα Ι.Ε.Κ.",
+   "keywords": [],
+   "doc_type": "Απόφαση",
+   "fek_label": "ΦΕΚ 2661/Β/30-5-2022",
+   "ada": null,
+   "date": "2022-05-30",
+   "categories": [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220202661.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/apophase-63536-k5-2022-phek-2661b-30-5-2022.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "b62f4604b7ad583c",
+   "id": "fek:ΦΕΚ 609/Β/12-2-2022",
+   "year": "2022",
+   "source": "e-nomothesia",
+   "source_label": "e-nomothesia.gr",
+   "title": "Κοινή Υπουργική Απόφαση 14715/ΓΓ4/2022 - ΦΕΚ 609/Β/12-2-2022",
+   "summary": "Καθορισμός διαδικασίας, περιεχομένου και δικαιολογητικών, παραβόλου, χρηματικού ποσού και κυρώσεων για την έγκριση της ίδρυσης και λειτουργίας και τη γνωστοποίηση της λειτουργίας δραστηριοτήτων στον τομέα της εκπαίδευσης.",
+   "keywords": [],
+   "doc_type": "ΚΥΑ",
+   "fek_label": "ΦΕΚ 609/Β/12-2-2022",
+   "ada": null,
+   "date": "2022-02-12",
+   "categories": [
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": null,
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220200609.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/idiotike-ekpaideuse-phrontisteria/koine-upourgike-apophase-14715-gg4-2022.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "d58f986dd2acc1d4",
+   "id": "seed:491/Β/2021",
+   "year": "2021",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Υ.Α. 13423/ΓΔ4/2021 — Εσωτερικός Κανονισμός Λειτουργίας σχολικών μονάδων (ΚΑΤΑΡΓΗΘΕΙΣΑ, αντικαταστάθηκε από ΦΕΚ 5387/Β/2024)",
+   "summary": "Κανονισμός λειτουργίας σχολικών μονάδων (ΚΑΤΑΡΓΗΘΕΙΣ — ιστορική αναφορά)",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 491/Β/2021",
+   "ada": null,
+   "date": "2021-01-01",
+   "categories": [
+    "Σχολική Ζωή & Φοίτηση Μαθητών",
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΚΑΤΑΡΓΗΘΕΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2021/20210200491.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/deuterobathmia-ekpaideuse/upourgike-apophase-13423-gd4-2021.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "f16feac4e0993223",
+   "id": "seed:Υπουργείο Παιδείας — Συγκεντρωτικό ενημερωτικό για τις άδειες αναπληρω",
+   "year": "2021",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Υπουργείο Παιδείας — Συγκεντρωτικό ενημερωτικό για τις άδειες αναπληρωτών εκπαιδευτικών, ΕΕΠ & ΕΒΠ (ενημερωτικό έγγραφο, να διασταυρώνεται με την τρέχουσα ετήσια εγκύκλιο)",
+   "summary": "Άδειες αναπληρωτών (συγκεντρωτική καθοδήγηση ΥΠΑΙΘ — ΟΧΙ ΦΕΚ)",
+   "keywords": [],
+   "doc_type": "Νομοθεσία",
+   "fek_label": null,
+   "ada": null,
+   "date": "2021-01-01",
+   "categories": [
+    "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)",
+    "Προσλήψεις Αναπληρωτών",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΟΔΗΓΟΣ",
+   "enriched": false,
+   "authority_level": "official_guide",
+   "verification_status": "needs_primary_source",
+   "legal_disclaimer_required": true,
+   "official_url": "https://www.minedu.gov.gr/publications/docs2021/adeies_anaplirotwn_ekpaideutikwn.pdf",
+   "source_url": "https://www.minedu.gov.gr/publications/docs2021/adeies_anaplirotwn_ekpaideutikwn.pdf",
+   "affected_by": []
+  },
+  {
+   "doc_id": "2784cfd06ab790c3",
+   "id": "seed:136/Α/2021",
+   "year": "2021",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 4823/2021 — Μέρος Β' (επιλογή/τοποθέτηση στελεχών) & Μέρος Γ' (αξιολόγηση στελεχών, εκπαιδευτικών & εκπαιδευτικού έργου· αντικατέστησε ουσιαστικά το ΠΔ 152/2013). Τροποποιήθηκε από ν.5082/2024",
+   "summary": "Επιλογή στελεχών & αξιολόγηση εκπαιδευτικών/στελεχών (ΙΣΧΥΟΝ)",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 136/Α/2021",
+   "ada": null,
+   "date": "2021-01-01",
+   "categories": [
+    "Τοποθετήσεις & Οργανικές Θέσεις",
+    "Αξιολόγηση Εκπαιδευτικών & Σχ. Μονάδων",
+    "Στελέχη / Επιλογή Διευθυντών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2021/20210100136.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/nomos-4823-2021-phek-136a-3-8-2021.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "5e5d400eea3039a7",
+   "id": "seed:101/Α/2021",
+   "year": "2021",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 4808/2021 — Για την προστασία της εργασίας (ενσωμάτωση Οδηγίας 2019/1158): άδεια πατρότητας αρ.27, γονική άδεια αρ.28, άδεια γάμου αρ.39, άδεια μητρότητας αρ.34, ιατρικώς υποβοηθούμενης αναπαραγωγής αρ.35 — εφαρμόζονται και σε αναπληρωτές ΙΔΟΧ",
+   "summary": "Προστασία μητρότητας/πατρότητας/γονικές άδειες (ισχύον εργατικό)",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 101/Α/2021",
+   "ada": null,
+   "date": "2021-01-01",
+   "categories": [
+    "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)",
+    "Προσλήψεις Αναπληρωτών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2021/20210100101.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ergasia/nomos-4808-2021-phek-101a-19-6-2021.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "c4ec848486928943",
+   "id": "seed:Οδηγίες & υπόδειγμα παρουσιολογίου αναπληρωτών ΕΣΠΑ — ΔΙΠΕ Καρδίτσας (",
+   "year": "2021",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Οδηγίες & υπόδειγμα παρουσιολογίου αναπληρωτών ΕΣΠΑ — ΔΙΠΕ Καρδίτσας (ξεχωριστό παρουσιολόγιο ανά σχολείο μόνο για τις ώρες διάθεσης· βεβαίωση/σφραγίδα από τον διευθυντή κάθε μονάδας). Πρακτική πηγή Επιτελικής Δομής, όχι ΦΕΚ",
+   "summary": "Παρουσιολόγιο/διάθεση αναπληρωτών ΕΣΠΑ — πρακτικό υπόδειγμα",
+   "keywords": [],
+   "doc_type": "Οδηγός",
+   "fek_label": null,
+   "ada": null,
+   "date": "2021-01-01",
+   "categories": [
+    "Προσλήψεις Αναπληρωτών",
+    "Στελέχη / Επιλογή Διευθυντών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΟΔΗΓΟΣ",
+   "enriched": false,
+   "authority_level": "official_guide",
+   "verification_status": "needs_primary_source",
+   "legal_disclaimer_required": true,
+   "official_url": "https://dipe.kar.sch.gr/images/files/20211105-ESP-NEW.pdf",
+   "source_url": "https://dipe.kar.sch.gr/images/files/20211105-ESP-NEW.pdf",
+   "affected_by": []
+  },
+  {
+   "doc_id": "8559057c8ef1814c",
+   "id": "seed:254/Α/2020",
+   "year": "2020",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 4763/2020 — Εθνικό Σύστημα Επαγγελματικής Εκπαίδευσης, Κατάρτισης & Διά Βίου Μάθησης (ΕΠΑΛ, τομείς/ειδικότητες, μεταλυκειακό έτος-τάξη μαθητείας· τροπ. εν μέρει από ν.5082/2024)",
+   "summary": "Επαγγελματική Εκπαίδευση & Κατάρτιση — ΕΠΑΛ/ΙΕΚ",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 254/Α/2020",
+   "ada": null,
+   "date": "2020-01-01",
+   "categories": [
+    "ΕΠΑΛ / Επαγγελματική Εκπαίδευση",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
+   ],
+   "levels": [
+    "Δευτεροβάθμια"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100254.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/nomos-4763-2020-phek-254a-21-12-2020.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "1d06516321b7521f",
+   "id": "seed:13/Α/2019",
+   "year": "2019",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 4589/2019 — Κεφάλαιο Ε' (αρ.53-67): σύστημα διορισμού/προσλήψεων εκπαιδευτικών, ΕΕΠ & ΕΒΠ μέσω ΑΣΕΠ, αξιολογικοί πίνακες, αρ.63 προσωρινοί αναπληρωτές/ωρομίσθιοι",
+   "summary": "Σύστημα διορισμών ΑΣΕΠ & προσλήψεων αναπληρωτών / ΟΠΣΥΔ",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 13/Α/2019",
+   "ada": null,
+   "date": "2019-01-01",
+   "categories": [
+    "Προσλήψεις Αναπληρωτών",
+    "Διορισμοί Μονίμων (ΑΣΕΠ)",
+    "Αξιολόγηση Εκπαιδευτικών & Σχ. Μονάδων"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2019/20190100013.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/nomos-4589-2019.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "166009ace12b6039",
+   "id": "seed:102/Α/2018",
+   "year": "2018",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 4547/2018 — Αναδιοργάνωση δομών υποστήριξης Α/θμιας & Β/θμιας (ΠΕΚΕΣ, ΚΕΣΥ→νυν ΚΕΔΑΣΥ, ΣΔΕΥ-ΕΔΕΑΥ). ΠΡΟΣΟΧΗ: ονομασίες/αρμοδιότητες τροποποιήθηκαν από ν.4823/2021",
+   "summary": "Δομές υποστήριξης / ΚΕΔΑΣΥ / Σύμβουλοι Εκπαίδευσης",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 102/Α/2018",
+   "ada": null,
+   "date": "2018-01-01",
+   "categories": [
+    "Στελέχη / Επιλογή Διευθυντών",
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)",
+    "Επιμόρφωση"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2018/20180100102.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/nomos-4547-2018-phek-102a-12-6-2018.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "82a3529afa568f00",
+   "id": "seed:109/Α/2017",
+   "year": "2017",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Π.Δ. 79/2017 — Οργάνωση και λειτουργία νηπιαγωγείων και δημοτικών σχολείων (εγγραφές, ολοήμερο, ωρολόγιο, εφημερίες, δίχρονη υποχρεωτική προσχολική αγωγή)",
+   "summary": "Οργάνωση & λειτουργία Νηπιαγωγείων / Δημοτικών (πρωτοβάθμια)",
+   "keywords": [],
+   "doc_type": "Προεδρικό Διάταγμα",
+   "fek_label": "ΦΕΚ 109/Α/2017",
+   "ada": null,
+   "date": "2017-01-01",
+   "categories": [
+    "Νηπιαγωγείο / Ολοήμερο",
+    "Ωρολόγια & Προγράμματα Σπουδών",
+    "Σχολική Ζωή & Φοίτηση Μαθητών"
+   ],
+   "levels": [
+    "Πρωτοβάθμια"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100109.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/proedriko-diatagma-79-2017-fek-109a-1-8-2017.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "0072107832eecbb5",
+   "id": "seed:24/Α/2013",
+   "year": "2013",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 4115/2013 (άρθρο 39) σε συνδυασμό με ν.1566/1985 — καθορισμός/μείωση διδακτικού ωραρίου εκπαιδευτικών Α/θμιας & Β/θμιας",
+   "summary": "Διδακτικό & μειωμένο ωράριο βάσει ετών υπηρεσίας (συμπληρωματική βάση)",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 24/Α/2013",
+   "ada": null,
+   "date": "2013-01-01",
+   "categories": [
+    "Γενικά Εκπαιδευτικά"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100024.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/n-4115-2013.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "d92dd6c8f966df07",
+   "id": "seed:199/Α/2008",
+   "year": "2008",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 3699/2008 — Ειδική Αγωγή και Εκπαίδευση ατόμων με αναπηρία ή ειδικές εκπαιδευτικές ανάγκες (ιδίως αρ.6: παράλληλη στήριξη-συνεκπαίδευση, τμήματα ένταξης, ρόλος ΚΕΔΑΣΥ· όπως τροπ. από ν.4547/2018, ν.4823/2021, ν.5224/2025)",
+   "summary": "Ειδική Αγωγή & Εκπαίδευση — θεμελιώδης νόμος (παράλληλη στήριξη, τμήματα ένταξης)",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 199/Α/2008",
+   "ada": null,
+   "date": "2008-01-01",
+   "categories": [
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100199.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/n-3699-2008.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "4a03f54d645e44da",
+   "id": "seed:26/Α/2007",
+   "year": "2007",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 3528/2007 — Υπαλληλικός Κώδικας, άρθρα 48-60 (κανονική, αναρρωτική, ειδικές αρ.50, αιμοδοτική παρ.5 αρ.50, εξετάσεων αρ.60, ανατροφής). Βάση αδειών μονίμων ΚΑΙ — όπου ρητά παραπέμπεται — αναπληρωτών",
+   "summary": "Υπαλληλικός Κώδικας — νομική βάση αδειών",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 26/Α/2007",
+   "ada": null,
+   "date": "2007-01-01",
+   "categories": [
+    "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)",
+    "Προσλήψεις Αναπληρωτών",
+    "Εξετάσεις & Εισαγωγή στην Τριτοβάθμια"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2007/20070100026.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ergasia/upalleloi/n-3528-2007.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "7be444a03c6b595f",
+   "id": "seed:1340/Β/2002",
+   "year": "2002",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Υ.Α. Φ.353.1/324/105657/Δ1/2002 — Καθήκοντα και αρμοδιότητες προϊσταμένων περιφερειακών υπηρεσιών, διευθυντών/υποδιευθυντών σχολικών μονάδων & ΣΕΚ, και συλλόγου διδασκόντων",
+   "summary": "Καθηκοντολόγιο εκπαιδευτικών, διευθυντών, συλλόγου διδασκόντων",
+   "keywords": [],
+   "doc_type": "Υπουργική Απόφαση",
+   "fek_label": "ΦΕΚ 1340/Β/2002",
+   "ada": null,
+   "date": "2002-01-01",
+   "categories": [
+    "Στελέχη / Επιλογή Διευθυντών",
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2002/20020201340.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/upourgike-apophase-f-353-1-324-105657-d1-2002.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "9ae1e332cf1242d9",
+   "id": "seed:45/Α/1996",
+   "year": "1996",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Π.Δ. 50/1996 — Μεταθέσεις και τοποθετήσεις εκπαιδευτικών Α/θμιας & Β/θμιας (μόρια, αμοιβαίες, ειδικές κατηγορίες, οριστική τοποθέτηση· όπως ισχύει μετά ΠΔ 100/1997)",
+   "summary": "Μεταθέσεις & τοποθετήσεις εκπαιδευτικών",
+   "keywords": [],
+   "doc_type": "Προεδρικό Διάταγμα",
+   "fek_label": "ΦΕΚ 45/Α/1996",
+   "ada": null,
+   "date": "1996-01-01",
+   "categories": [
+    "Μεταθέσεις",
+    "Τοποθετήσεις & Οργανικές Θέσεις"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1996/19960100045.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/pd-50-1996.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "13ff96a0c0530696",
+   "id": "seed:191/Α/1988",
+   "year": "1988",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Π.Δ. 410/1988 — Κώδικας προσωπικού με σύμβαση εργασίας ιδιωτικού δικαίου του Δημοσίου (αρ.20 παρ.8 κανονική 7 ημ· αρ.23 γονικές άδειες ανατροφής/σχολικής επίδοσης/ασθένειας τέκνου, όπως τροπ. με αρ.47 ν.4674/2020)",
+   "summary": "Καθεστώς εργασίας προσωπικού ΙΔΟΧ (κανονική/αναρρωτική άδεια αναπληρωτών)",
+   "keywords": [],
+   "doc_type": "Προεδρικό Διάταγμα",
+   "fek_label": "ΦΕΚ 191/Α/1988",
+   "ada": null,
+   "date": "1988-01-01",
+   "categories": [
+    "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)",
+    "Προσλήψεις Αναπληρωτών",
+    "Άδεια Άσκησης Ιδιωτικού Έργου / Επαγγέλματος"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1988/19880100191.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ergasia/upalleloi/pd-410-1988.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "f2371f3ab54205a2",
+   "id": "seed:167/Α/1985",
+   "year": "1985",
+   "source": "seed",
+   "source_label": "Θεμελιώδης νόμος",
+   "title": "Νόμος 1566/1985 — Δομή και λειτουργία πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης (κωδικοποιημένος· βάση ωραρίου, συλλόγου διδασκόντων, διάθεσης/συμπλήρωσης ωραρίου — αρ.13-14)",
+   "summary": "Θεμελιώδης νόμος-πλαίσιο δομής & λειτουργίας εκπαίδευσης",
+   "keywords": [],
+   "doc_type": "Νόμος",
+   "fek_label": "ΦΕΚ 167/Α/1985",
+   "ada": null,
+   "date": "1985-01-01",
+   "categories": [
+    "Ωρολόγια & Προγράμματα Σπουδών",
+    "Οργάνωση & Διοίκηση Σχολείων"
+   ],
+   "levels": [
+    "Πρωτοβάθμια",
+    "Δευτεροβάθμια"
+   ],
+   "status": "ΙΣΧΥΟΝ",
+   "enriched": false,
+   "authority_level": "primary_law",
+   "verification_status": "verified",
+   "legal_disclaimer_required": false,
+   "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1985/19850100167.pdf",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/n-1566-1985.html",
+   "affected_by": []
+  },
+  {
+   "doc_id": "d314f580e6d6a12a",
+   "id": "knowledge:adeies-anaplirotes-espa",
+   "year": "ref",
+   "source": "knowledge",
+   "source_label": "Συγκεντρωτικός οδηγός",
+   "title": "Άδειες Αναπληρωτών ΕΣΠΑ (ΙΔΟΧ) — συγκεντρωτικός πίνακας με ημέρες",
+   "summary": "Ως αναπληρωτής/τρια ΕΣΠΑ (ΙΔΟΧ) δικαιούστε μια σειρά αδειών, αλλά ΟΧΙ ακριβώς ίδιες με τους μονίμους: η κανονική είναι μόλις έως 7 εργάσιμες ημέρες ανά σύμβαση (για εξαιρετική ανάγκη), η αναρρωτική με αποδοχές περιορίζεται στις 15 ημερολογιακές ημέρες ανά σύμβαση (όχι Υ.Δ., μέσω ",
+   "keywords": [],
+   "doc_type": "Οδηγός",
+   "fek_label": null,
+   "ada": null,
+   "date": null,
+   "categories": [
+    "Άδειες (κανονική / αναρρωτική / γονική κ.λπ.)",
+    "Προσλήψεις Αναπληρωτών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΟΔΗΓΟΣ",
+   "enriched": true,
+   "authority_level": "official_guide",
+   "verification_status": "needs_primary_source",
+   "legal_disclaimer_required": true,
+   "official_url": "https://dide.evr.sch.gr/wp-content/uploads/2024/08/Odigos-Adeies-Anaplirwtes.pdf",
+   "source_url": "https://dide.evr.sch.gr/wp-content/uploads/2024/08/Odigos-Adeies-Anaplirwtes.pdf",
+   "affected_by": []
+  },
+  {
+   "doc_id": "b78b838247b3b8d2",
+   "id": "knowledge:sympliromi-orariou-dyo-sxoleia",
+   "year": "ref",
+   "source": "knowledge",
+   "source_label": "Συγκεντρωτικός οδηγός",
+   "title": "Αναπληρωτής σε δύο σχολεία — έδρα, διάθεση & παρουσιολόγιο",
+   "summary": "Η διατύπωσή σας χρειάζεται διόρθωση/ακρίβεια. ΔΕΝ ισχύει ότι ένας μόνο διευθυντής (του σχολείου συμπλήρωσης) βεβαιώνει όλες τις ώρες στο μηνιαίο πρόγραμμα. Στην πράξη ΚΑΘΕ σχολείο τηρεί ΔΙΚΟ ΤΟΥ μηνιαίο παρουσιολόγιο μόνο για τις ημέρες/ώρες που υπηρετείς εκεί, και το υπογράφει/σ",
+   "keywords": [],
+   "doc_type": "Οδηγός",
+   "fek_label": null,
+   "ada": null,
+   "date": null,
+   "categories": [
+    "Τοποθετήσεις & Οργανικές Θέσεις",
+    "Προσλήψεις Αναπληρωτών"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΟΔΗΓΟΣ",
+   "enriched": true,
+   "authority_level": "official_guide",
+   "verification_status": "needs_primary_source",
+   "legal_disclaimer_required": true,
+   "official_url": "https://dipe.kar.sch.gr/images/files/20211105-ESP-NEW.pdf",
+   "source_url": "https://dipe.kar.sch.gr/images/files/20211105-ESP-NEW.pdf",
+   "affected_by": []
+  },
+  {
+   "doc_id": "538b38c26c336d52",
+   "id": "knowledge:eae-syndidaskalia",
+   "year": "ref",
+   "source": "knowledge",
+   "source_label": "Συγκεντρωτικός οδηγός",
+   "title": "ΕΑΕ: συνδιδασκαλία / παράλληλη στήριξη — τι μπορεί & τι όχι να ζητηθεί",
+   "summary": "ΔΙΕΥΚΡΙΝΙΣΗ ΠΡΩΤΑ: Μάλλον εννοείτε ΣΥΝΕΚΠΑΙΔΕΥΣΗ/ΣΥΝΔΙΔΑΣΚΑΛΙΑ μέσα στη γενική τάξη. Αν είστε σε ΠΑΡΑΛΛΗΛΗ ΣΤΗΡΙΞΗ: ΝΑΙ, η εργασία ΜΕΣΑ στην τάξη, μαζί με τον/την εκπαιδευτικό του τμήματος, είναι το ΚΑΝΟΝΙΚΟ και ΥΠΟ ΠΡΟΫΠΟΘΕΣΕΙΣ ΥΠΟΧΡΕΩΤΙΚΟ πλαίσιο εργασίας σας — όχι «έξτρα» καθή",
+   "keywords": [],
+   "doc_type": "Οδηγός",
+   "fek_label": null,
+   "ada": null,
+   "date": null,
+   "categories": [
+    "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
+   ],
+   "levels": [
+    "Όλες / Γενικό"
+   ],
+   "status": "ΠΡΟΣΦΑΤΗ ΑΛΛΑΓΗ",
+   "enriched": true,
+   "authority_level": "official_guide",
+   "verification_status": "needs_primary_source",
+   "legal_disclaimer_required": true,
+   "official_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/n-3699-2008.html",
+   "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/n-3699-2008.html",
+   "affected_by": []
+  }
+ ]
+}

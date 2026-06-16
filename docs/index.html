@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ΦΕΚ Παιδείας — Αναζήτηση εκπαιδευτικής νομοθεσίας</title>
+  <meta name="description" content="Καθημερινά ενημερωμένη βάση ΦΕΚ & εγκυκλίων για την Πρωτοβάθμια και Δευτεροβάθμια Εκπαίδευση, με αυτόματη κατηγοριοποίηση." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>📚 ΦΕΚ Παιδείας</h1>
+      <p class="tagline">Εκπαιδευτική νομοθεσία &amp; εγκύκλιοι — Πρωτοβάθμια &amp; Δευτεροβάθμια · ενημέρωση κάθε μέρα</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="search-panel">
+      <div class="search-box">
+        <input id="q" type="search" placeholder="Τι θες να βρεις; π.χ. μεταθέσεις, άδειες, πανελλαδικές…"
+               autocomplete="off" aria-label="Αναζήτηση" />
+        <button id="clear" class="clear-btn" title="Καθαρισμός" aria-label="Καθαρισμός">✕</button>
+      </div>
+
+      <div class="levels" id="levels" role="group" aria-label="Βαθμίδα">
+        <button class="lvl active" data-level="">Όλες</button>
+        <button class="lvl" data-level="Πρωτοβάθμια">Πρωτοβάθμια</button>
+        <button class="lvl" data-level="Δευτεροβάθμια">Δευτεροβάθμια</button>
+      </div>
+
+      <div class="sub-filters">
+        <select id="roleFilter" aria-label="Ρόλος"></select>
+        <select id="typeFilter" aria-label="Τύπος πράξης"><option value="">Όλοι οι τύποι</option></select>
+        <select id="sourceFilter" aria-label="Πηγή">
+          <option value="">Όλες οι πηγές</option>
+          <option value="e-nomothesia">ΦΕΚ / Νομοθεσία</option>
+          <option value="diavgeia">Εγκύκλιοι / Διαύγεια</option>
+          <option value="seed">Θεμελιώδεις νόμοι</option>
+        </select>
+        <select id="dateFilter" aria-label="Χρονικό διάστημα">
+          <option value="">Κάθε ημερομηνία</option>
+          <option value="30">Τελευταίος μήνας</option>
+          <option value="90">Τελευταίο 3μηνο</option>
+          <option value="180">Τελευταίο 6μηνο</option>
+        </select>
+      </div>
+    </section>
+
+    <div id="health" class="health" hidden></div>
+
+    <section class="categories" id="categories" aria-label="Κατηγορίες"></section>
+
+    <div class="results-head">
+      <span id="count" class="count"></span>
+      <span id="updated" class="updated"></span>
+    </div>
+
+    <div id="synth" class="synth" hidden></div>
+
+    <section id="results" class="results" aria-live="polite"></section>
+    <div id="empty" class="empty" hidden>Δεν βρέθηκαν αποτελέσματα. Δοκίμασε άλλη λέξη ή κατηγορία.</div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Πηγές: <a href="https://search.et.gr" target="_blank" rel="noopener">Εθνικό Τυπογραφείο (ΦΕΚ)</a> ·
+        <a href="https://diavgeia.gov.gr" target="_blank" rel="noopener">Διαύγεια</a> ·
+        <a href="https://www.e-nomothesia.gr" target="_blank" rel="noopener">e-nomothesia.gr</a>.
+        Τα κείμενα των ΦΕΚ είναι δημόσια (Ν. 2121/1993, άρ. 2§5). Αυτόματη κατηγοριοποίηση — επαληθεύστε στο επίσημο ΦΕΚ.</p>
+    </div>
+  </footer>
+
+  <script src="config.js?v=2"></script>
+  <script src="app.js?v=2"></script>
+</body>
+</html>

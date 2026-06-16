@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+worker/.dev.vars
+worker/node_modules/
+*.pdf
+data/_*.json
+# Local SQLite is regenerated each run from the committed sharded data
+# (docs/data/index.json + docs/data/docs/{year}/*.json), so it is NOT committed.
+data/fek.db
+data/fek.db-journal
