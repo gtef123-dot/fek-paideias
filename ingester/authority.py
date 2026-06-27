@@ -24,7 +24,7 @@ def authority_level(source: str, doc_type: str, status: str) -> str:
         return "primary_law"
     if (doc_type or "") == "Εγκύκλιος":
         return "official_circular"
-    if source in ("e-nomothesia", "seed"):
+    if source in ("e-nomothesia", "seed", "catalog"):
         return "primary_law"   # ΥΑ/ΚΥΑ published in the official ΦΕΚ
     return "unknown"
 

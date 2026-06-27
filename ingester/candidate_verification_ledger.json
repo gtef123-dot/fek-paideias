@@ -1,0 +1,5401 @@
+{
+ "count": 173,
+ "done": 118,
+ "items": [
+  {
+   "id": "fek:ΦΕΚ 75/Α/18-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 28/2026 - ΦΕΚ 75/Α/18-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2026/20260100075.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['28', '75']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 72/Α/15-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 26/2026 - ΦΕΚ 72/Α/15-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2026/20260100072.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "3752 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['26', '72']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 4/Α/15-1-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5266/2026 - ΦΕΚ 4/Α/15-1-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2026/20260100004.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "4488 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4', '5266']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 176/Α/13-10-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5237/2025 - ΦΕΚ 176/Α/13-10-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2025/20250100176.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['176', '5237']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 12/Α/30-1-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5174/2025 - ΦΕΚ 12/Α/30-1-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2025/20250100012.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16339 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['12', '5174']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 118/Α/30-7-2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5128/2024 - ΦΕΚ 118/Α/30-7-2024",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100118.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['118', '5128']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 105/Α/12-7-2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5120/2024 - ΦΕΚ 105/Α/12-7-2024",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100105.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['105', '5120']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 97/Α/1-7-2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5114/2024 - ΦΕΚ 97/Α/1-7-2024",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100097.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['5114', '97']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 37/Α/11-3-2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 13/2024 - ΦΕΚ 37/Α/11-3-2024",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100037.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "5258 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['13', '37']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 9/Α/19-1-2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5082/2024 - ΦΕΚ 9/Α/19-1-2024 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100009.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['5082', '9']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 205/Β/12-12-2023",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5074/2023 - ΦΕΚ 205/Β/12-12-2023",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2023/20230200205.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.6,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "29500 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['205']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 55/Α/10-3-2023",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5029/2023 - ΦΕΚ 55/Α/10-3-2023 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2023/20230100055.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['5029', '55']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 169/Α/8-9-2022",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 65/2022 - ΦΕΚ 169/Α/8-9-2022",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2022/20220100169.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "5503 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['169', '65']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 209/Α/8-11-2021",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 90/2021 - ΦΕΚ 209/Α/8-11-2021",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2021/20210100209.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "15435 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['209', '90']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 136/Α/3-8-2021",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4823/2021 - ΦΕΚ 136/Α/3-8-2021 (Άρθρα 1- 103) (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2021/20210100136.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['136', '4823']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 25/Α/17-2-2021",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4777/2021 - ΦΕΚ 25/Α/17-2-2021 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2021/20210100025.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['25', '4777']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 254/Α/21-12-2020",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4763/2020 - ΦΕΚ 254/Α/21-12-2020 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100254.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['254', '4763']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 111/Α/12-6-2020",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4692/2020 - ΦΕΚ 111/Α/12-6-2020 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100111.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['111', '4692']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 95/Α/12-5-2020",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 43/2020 - ΦΕΚ 95/Α/12-5-2020",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100095.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "12607 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['43', '95']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 12/Α/24-1-2020",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4653/2020 - ΦΕΚ 12/Α/24-1-2020 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100012.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['12', '4653']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 217/Α/31-12-2019",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 112/2019 - ΦΕΚ 217/Α/31-12-2019",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2019/20190100217.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "17610 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['112', '217']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 70/Α/7-5-2019",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4610/2019 - ΦΕΚ 70/Α/7-5-2019 (Άρθρα 1-99) (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2019/20190100070.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4610', '70']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 13/Α/29-1-2019",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4589/2019 - ΦΕΚ 13/Α/29-1-2019 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2019/20190100013.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['13', '4589']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 167/Α/13-9-2018",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4561/2018 - ΦΕΚ 167/Α/13-9-2018",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2018/20180100167.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14028 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['167', '4561']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 102/Α/12-6-2018",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4547/2018 - ΦΕΚ 102/Α/12-6-2018 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2018/20180100102.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['102', '4547']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 99/Α/8-6-2018",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4545/2018 - ΦΕΚ 99/Α/8-6-2018",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2018/20180100099.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "15891 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4545', '99']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 31/Α/23-2-2018",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 18/2018 - ΦΕΚ 31/Α/23-2-2018 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2018/20180100031.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['18', '31']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 193/Α/13-12-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 149/2017 - ΦΕΚ 193/Α/13-12-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100193.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "19419 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['149', '193']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 189/Α/8-12-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4505/2017 - ΦΕΚ 189/Α/8-12-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100189.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['189', '4505']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 188/Α/7-12-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 146/2017 - ΦΕΚ 188/Α/7-12-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100188.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "6840 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['146', '188']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 78/Α/30-5-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4473/2017 - ΦΕΚ 78/Α/30-5-2017 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100078.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4473', '78']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 59/Α/24-4-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 35/2017 - ΦΕΚ 59/Α/24-4-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100059.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "4860 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['35', '59']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 28/Α/6-3-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 14/2017 - ΦΕΚ 28/Α/6-3-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100028.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "8873 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['14', '28']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 17/Α/15-2-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4452/2017 - ΦΕΚ 17/Α/15-2-2017 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100017.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['17', '4452']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 199/Α/21-10-2016",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4429/2016 - ΦΕΚ 199/Α/21-10-2016 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2016/20160100199.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['199', '4429']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 193/Α/18-10-2016",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 111/2016 - ΦΕΚ 193/Α/18-10-2016 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2016/20160100193.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "7714 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['111', '193']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 159/Α/6-9-2016",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4415/2016 - ΦΕΚ 159/Α/6-9-2016 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2016/20160100159.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['159', '4415']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 83/Α/11-5-2016",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4386/2016 - ΦΕΚ 83/Α/11-5-2016 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2016/20160100083.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4386', '83']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 127/Α/8-10-2015",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Πράξη Νομοθετικού Περιεχομένου της 8-10-2015 - ΦΕΚ 127/Α/8-10-2015",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2015/20150100127.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14027 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['127']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "3/3 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 108/Α/10-9-2015",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Πράξη Νομοθετικού Περιεχομένου της 10-9-2015 - ΦΕΚ 108/Α/10-9-2015",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2015/20150100108.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "6428 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['108']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "3/3 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 258/Α/8-12-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4310/2014 - ΦΕΚ 258/Α/8-12-2014 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100258.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['258', '4310']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 189/Α/10-9-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4283/2014 - ΦΕΚ 189/Α/10-9-2014 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100189.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['189', '4283']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 181/Α/29-8-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 114/2014 - ΦΕΚ 181/Α/29-8-2014 (Καταργημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100181.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['114', '181']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 31/Α/11-2-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 21/2014 - ΦΕΚ 31/Α/11-2-2014",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100031.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "13811 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['21', '31']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 240/Α/5-11-2013",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 152/2013 - ΦΕΚ 240/Α/5-11-2013 (Καταργημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100240.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['152', '240']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 24/Α/30-1-2013",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4115/2013 - ΦΕΚ 24/Α/30-1-2013 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100024.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['24', '4115']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 233/Α/4-11-2011",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4027/2011 - ΦΕΚ 233/Α/4-11-2011 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2011/20110100233.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['233', '4027']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 94/Α/20-4-2011",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3960/2011 - ΦΕΚ 94/Α/20-4-2011",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2011/20110100094.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "10263 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3960', '94']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 157/Α/13-7-2011",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3988/2011 - ΦΕΚ 157/Α/13-7-2011",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2011/20110100157.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "11829 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['157', '3988']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 118/Α/24-5-2011",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3966/2011 - ΦΕΚ 118/Α/24-5-2011 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2011/20110100118.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['118', '3966']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 163/Α/21-9-2010",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3879/2010 - ΦΕΚ 163/Α/21-9-2010 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2010/20100100163.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['163', '3879']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 98/Α/30-6-2010",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 60/2010 - ΦΕΚ 98/Α/30-6-2010",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2010/20100100098.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['60', '98']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 71/Α/19-5-2010",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3848/2010 - ΦΕΚ 71/Α/19-5-2010 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2010/20100100071.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3848', '71']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 29/Α/19-2-2009",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3748/2009 - ΦΕΚ 29/Α/19-2-2009 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2009/20090100029.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['29', '3748']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 199/Α/2-10-2008",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3699/2008 - ΦΕΚ 199/Α/2-10-2008 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100199.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['199', '3699']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 159/Α/1-8-2008",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3687/2008 - ΦΕΚ 159/Α/1-8-2008 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100159.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['159', '3687']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 49/Α/21-3-2008",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3653/2008 - ΦΕΚ 49/Α/21-3-2008 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100049.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3653', '49']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 198/Α/23-8-2007",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 155/2007 - ΦΕΚ 198/Α/23-8-2007 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2007/20070100198.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "22907 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['155', '198']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 130/Α/8-6-2007",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3577/2007 - ΦΕΚ 130/Α/8-6-2007 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2007/20070100130.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['130', '3577']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 69/Α/20-3-2007",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3549/2007 - ΦΕΚ 69/Α/20-3-2007 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2007/20070100069.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3549', '69']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 128/Α/21-6-2006",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3467/2006 - ΦΕΚ 128/Α/21-6-2006 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2006/20060100128.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['128', '3467']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 48/Α/2-3-2006",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 47/2006 - ΦΕΚ 48/Α/2-3-2006",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2006/20060100048.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "7927 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['47', '48']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 278/Α/9-11-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3413/2005 - ΦΕΚ 278/Α/9-11-2005",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100278.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['278', '3413']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 240/Α/4-10-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3391/2005 - ΦΕΚ 240/Α/4-10-2005 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100240.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['240', '3391']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 209/Α/19-8-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3384/2005 - ΦΕΚ 209/Α/19-8-2005",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100209.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "28462 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['209', '3384']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 191/Α/2-8-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3376/2005 - ΦΕΚ 191/Α/2-8-2005",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100191.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "20689 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['191', '3376']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 171/Α/6-7-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3369/2005 - ΦΕΚ 171/Α/6-7-2005 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100171.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['171', '3369']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 129/Α/2-6-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 91/2005 - ΦΕΚ 129/Α/2-6-2005 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100129.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16482 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['129', '91']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 80/Α/1-4-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3328/2005 - ΦΕΚ 80/Α/1-4-2005 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100080.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3328', '80']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 61/Α/7-3-2005",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3323/2005 - ΦΕΚ 61/Α/7-3-2005",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2005/20050100061.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14232 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3323', '61']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 161/Α/26-8-2004",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 182/2004 - ΦΕΚ 161/Α/26-8-2004 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2004/20040100161.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16250 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['161', '182']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 138/Α/22-7-2004",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3255/2004 ΦΕΚ 138/Α/22-7-2004",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2004/20040100138.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['138', '3255']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 267/Α/20-11-2003",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3194/2003 - ΦΕΚ 267/Α/20-11-2003 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2003/20030100267.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['267', '3194']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 258/Α/7-11-2003",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3191/2003 - ΦΕΚ 258/Α/7-11-2003",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2003/20030100258.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['258', '3191']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 1/Α/3-1-2003",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 1/2003 - ΦΕΚ 1/Α/3-1-2003 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2003/20030100001.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['1']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 152/Α/28-6-2002",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3027/2002 - ΦΕΚ 152/Α/28-6-2002 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2002/20020100152.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['152', '3027']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 148/Α/25-6-2002",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3025/2003 - ΦΕΚ 148/Α/25-6-2002",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2002/20020100148.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['148', '3025']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 24/Α/13-2-2002",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2986/2002 - ΦΕΚ 24/Α/13-2-2002 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2002/20020100024.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "5409 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['24', '2986']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 202/Α/12-9-2001",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2942/2001 - ΦΕΚ 202/Α/12-9-2001",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2001/20010100202.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16364 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['202', '2942']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 90/Α/2-5-2001",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2909/2001 - ΦΕΚ 90/Α/2-5-2001 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2001/20010100090.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2909', '90']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 47/Α/15-3-2001",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 56/2001 - ΦΕΚ 47/Α/15-3-2001",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2001/20010100047.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "21104 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['47', '56']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 20/Α/6-2-2001",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2885/2001 - ΦΕΚ 20/Α/6-2-2001",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2001/20010100020.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16201 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['20', '2885']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 221/Α/13-10-2000",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 269/2000 - ΦΕΚ 221/Α/13-10-2000",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2000/20000100221.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "19232 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['221', '269']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 166/Α/18-7-2000",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2835/2000 - ΦΕΚ 166/Α/18-7-2000",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2000/20000100166.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "5293 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['166', '2835']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 160/Α/7-7-2000",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2834/2000 - ΦΕΚ 160/Α/7-7-2000",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2000/20000100160.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14158 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['160', '2834']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 78/Α/14-3-2000",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2817/2000 - ΦΕΚ 78/Α/14-3-2000 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2000/20000100078.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 62/Α/9-3-2000",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2811/2000 - ΦΕΚ 62/Α/9-3-2000",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2000/20000100062.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 306/Α/31-12-1999",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 321/1999 - ΦΕΚ 306/Α/31-12-1999",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1999/19990100306.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 271/Α/1-12-1999",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2767/1999 - ΦΕΚ 271/Α/1-12-1999",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1999/19990100271.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 186/Α/16-9-1999",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2740/1999 - ΦΕΚ 186/Α/16-9-1999 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1999/19990100186.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 242/Α/29-10-1998",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 363/1998 - ΦΕΚ 242/Α/29-10-1998",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1998/19980100242.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 206/Α/3-9-1998",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2640/1998 - ΦΕΚ 206/Α/3-9-1998 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1998/19980100206.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 43/Α/9-3-1998",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 39/1998 - ΦΕΚ 43/Α/9-3-1998",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1998/19980100043.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 34/Α/25-2-1998",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 29/1998 - ΦΕΚ 34/Α/25-2-1998",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1998/19980100034.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 218/Α/23-10-1997",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2530/1997 - ΦΕΚ 218/Α/23-10-1997 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1997/19970100218.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 188/Α/23-9-1997",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2525/1997 – ΦΕΚ 188/Α/23-9-1997 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1997/19970100188.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 124/Α/17-6-1996",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2413/1996 - ΦΕΚ 124/Α/17-6-1996 (Κωδικοποιημένος - Μερική κατάργηση)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1996/19960100124.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 66/Α/11-4-1996",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 83/1996 - ΦΕΚ 66/Α/11-4-1996",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1996/19960100066.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 45/Α/8-3-1996",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 50/1996 - ΦΕΚ 45/Α/8-3-1996 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1996/19960100045.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 208/Α/6-10-1995",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2341/1995 - ΦΕΚ 208/Α/6-10-1995",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1995/19950100208.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 156/Α/31-7-1995",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2327/1995 - ΦΕΚ 156/Α/31-7-1995 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1995/19950100156.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 18/Α/16-2-1994",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2188/1994 - ΦΕΚ 18/Α/16-2-1994",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1994/19940100018.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 109/Α/28-6-1993",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2158/1993 - ΦΕΚ 109/Α/28-6-1993 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1993/19930100109.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 79/Α/19-5-1992",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2043/1992 - ΦΕΚ 79/Α/19-5-1992 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1992/19920100079.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 18/Α/14-2-1992",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 2009/1992 - ΦΕΚ 18/Α/14-2-1992",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1992/19920100018.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 153/Α/11-10-1991",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 420/1991 - ΦΕΚ 153/Α/11-10-1991 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1991/19910100153.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 110/Α/27-8-1990",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1894/1990 - ΦΕΚ 110/Α/27-8-1990 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1990/19900100110.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 296/Α/30-12-1988",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1824/1988 - ΦΕΚ 296/Α/30-12-1988 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1988/19880100296.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 71/Α/19-4-1988",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1771/1988 - ΦΕΚ 71/Α/19-4-1988 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1988/19880100071.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 59/Α/4-5-1997",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1698/1987 - ΦΕΚ 59/Α/4-5-1997",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1997/19970100059.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 31/Α/13-3-1987",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1690/1987 - ΦΕΚ 31/Α/13-3-1987",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1987/19870100031.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 98/Α/18-7-1986",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1628/1986 - ΦΕΚ 98/Α/18-7-1986",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1986/19860100098.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 76/Α/13-6-1986",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1600/1986 - ΦΕΚ 76/Α/13-6-1986 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1986/19860100076.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 167/Α/30-9-1985",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1566/1985 - ΦΕΚ 167/Α/30-9-1985 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1985/19850100167.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 13/Α/8-2-1985",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1514/1985 - ΦΕΚ 13/Α/8-2-1985",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1985/19850100013.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 151/Α/23-12-1982",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1308/1982 - ΦΕΚ 151/Α/23-12-1982",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1982/19820100151.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 144/Α/7-12-1982",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1304/1982 - ΦΕΚ 144/Α/7-12-1982 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1982/19820100144.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 15/Α/11-2-1982",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1228/1982 - ΦΕΚ 15/Α/11-2-1982",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1982/19820100015.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 80/Α/31-3-1981",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1143/1981 - ΦΕΚ 80/Α/31-3-1981",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1981/19810100080.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 170/Α/5-10-1978",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 817/1978 - ΦΕΚ 170/Α/5-10-1978",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1978/19780100170.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 314/Α/14-10-1977",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 741/1977 - ΦΕΚ 314/Α/14-10-1977",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1977/19770100314.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 264/Α/16-9-1977",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 694/1977 - ΦΕΚ 264/Α/16-9-1977 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1977/19770100264.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 2/Α/7-1-1931",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4862/1931 - ΦΕΚ 2/Α/07-1-1931 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1931/19310100002.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 309/Α/24-8-1929",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4397/1929 - ΦΕΚ 309/Α/24-08-1929",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1929/19290100309.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 75/Α/18-4-1995",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 121/1995 - ΦΕΚ 75/Α/18-4-1995",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1995/19950100075.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 109/Α/1-8-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 79/2017 - ΦΕΚ 109/Α/1-8-2017 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100109.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['109', '79']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 161/Α/13-7-1998",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 201/1998 - ΦΕΚ 161/Α/13-7-1998 (Παύση Ισχύος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1998/19980100161.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 3/Α/10-1-1995",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 8/1995 - ΦΕΚ 3/Α/10-1-1995",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1995/19950100003.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 171/Α/11-11-1991",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 462/1991 - ΦΕΚ 171/Α/11-11-1991",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1991/19910100171.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 76/Α/30-4-2018",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 40/2018 - ΦΕΚ 76/Α/30-4-2018 (Καταργημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2018/20180100076.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['40', '76']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 69/Α/16-5-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 44/2017 - ΦΕΚ 69/Α/16-5-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100069.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "4356 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['44', '69']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 68/Α/15-5-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 42/2017 - ΦΕΚ 68/Α/15-5-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100068.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['42', '68']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 15/Α/10-2-2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 8/2017 - ΦΕΚ 15/Α/10-2-2017",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100015.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.6,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "9696 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['15']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 211/Β/11-11-2016",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 126/2016 - ΦΕΚ 211/Β/11-11-2016 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2016/20160200211.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "19451 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['211']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 91/Α/19-5-2016",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 56/2016 - ΦΕΚ 91/Α/19-5-2016 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2016/20160100091.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['56', '91']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 74/Α/22-4-2016",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 46/2016 - ΦΕΚ 74/Α/22-4-2016 (Καταργημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2016/20160100074.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['46', '74']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 266/Α/24-12-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 170/2014 - ΦΕΚ 266/Α/24-12-2014",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100266.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "5407 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['170', '266']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 123/Α/28-5-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 79/2014 - ΦΕΚ 123/Α/28-5-2014",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100123.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['123', '79']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 110/Α/7-5-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 68/2014 - ΦΕΚ 110/Α/7-5-2014",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100110.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['110', '68']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 75/Α/28-3-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 39/2014 - ΦΕΚ 75/Α/28-3-2014",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100075.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "17041 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['39', '75']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 48/Α/28-2-2014",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 28/2014 - ΦΕΚ 48/Α/28-2-2014 (Καταργημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2014/20140100048.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14870 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['28', '48']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 274/Α/16-12-2013",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 170/2013 - ΦΕΚ 274/Α/16-12-2013",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100274.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14276 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['170', '274']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 193/Α/17-9-2013",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4186/2013 - ΦΕΚ 193/Α/17-9-2013 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100193.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['193', '4186']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 146/Α/14-6-2013",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 112/2013 - ΦΕΚ 146/Α/14-6-2013",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100146.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.6,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['146']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 55/Α/6-3-2013",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 24/2013 - ΦΕΚ 55/Α/6-3-2013",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100055.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "15086 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['24', '55']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 112/Α/3-5-2012",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 61/2012 - ΦΕΚ 112/Α/3-5-2012",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2012/20120100112.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['112', '61']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 97/Α/27-4-2012",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 47/2012 - ΦΕΚ 97/Α/27-4-2012",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2012/20120100097.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['47', '97']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 107/Α/9-5-2011",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 41/2011 - ΦΕΚ 107/Α/09-5-2011",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2011/20110100107.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "6211 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['107', '41']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 72/Α/7-4-2011",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 21/2011 - ΦΕΚ 72/Α/7-4-2011",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2011/20110100072.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "5994 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['21', '72']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 86/Α/7-6-2010",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 43/2010 - ΦΕΚ 86/Α/7-6-2010",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2010/20100100086.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16061 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['43', '86']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 69/Α/14-5-2010",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 31/2010 - ΦΕΚ 69/Α/14-5-2010",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2010/20100100069.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14075 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['31', '69']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 22/Α/13-2-2009",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 12/2009 - ΦΕΚ 22/Α/13-2-2009",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2009/20090100022.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "21134 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['12', '22']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 81/Α/8-5-2008",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 50/2008 - ΦΕΚ 81/Α/8-5-2008 (Καταργημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100081.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['50', '81']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 61/Α/10-4-2008",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 36/2008 - ΦΕΚ 61/Α/10-4-2008",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100061.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "4528 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['36', '61']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 146/Α/13-7-2006",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3475/2006 - ΦΕΚ 146/Α/13-7-2006 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2006/20060100146.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['146', '3475']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 102/Α/24-5-2006",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 105/2006 - ΦΕΚ 102/Α/24-5-2006",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2006/20060100102.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14547 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['102', '105']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 65/Α/30-3-2006",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 60/2006 - ΦΕΚ 65/Α/30-3-2006 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2006/20060100065.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['60', '65']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 258/Α/18-12-1995",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 444/1995 - ΦΕΚ 258/Α/18-12-1995",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1995/19950100258.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 70/Α/4-5-1990",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 185/1990 - ΦΕΚ 70/Α/4-5-1990",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1990/19900100070.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 68/Α/20-5-1987",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 123/1987 - ΦΕΚ 68/Α/20-5-1987",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1987/19870100068.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 60/Α/30-4-1986",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 157/1986 - ΦΕΚ 60/Α/30-4-1986",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1986/19860100060.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 184/Α/21-12-1983",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 485/1983 - ΦΕΚ 184/Α/21-12-1983",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1983/19830100184.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 87/Α/28-4-1979",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 294/1979 - ΦΕΚ 87/Α/28-4-1979",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1979/19790100087.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 23/Α/7-2-1979",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 104/1979 - ΦΕΚ 23/Α/7-2-1979",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1979/19790100023.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 147/Α/29-7-2020",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4713/2020 - ΦΕΚ 147/Α/29-7-2020 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100147.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['147', '4713']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 177/Α/25-8-2008",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3696/2008 - ΦΕΚ 177/Α/25-8-2008 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100177.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['177', '3696']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 205/Α/1-11-2004",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3279/2004 - ΦΕΚ 205/Α/1-11-2004 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2004/20040100205.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "28682 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['205', '3279']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 142/Α/19-6-2002",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3020/2002 - ΦΕΚ 142/Α/19-6-2002",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2002/20020100142.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "3724 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['142', '3020']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 254/Α/13-11-1998",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 372/1998 - ΦΕΚ 254/Α/13-11-1998",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1998/19980100254.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 278/Α/31-12-1997",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 394/1997 - ΦΕΚ 278/Α/31-12-1997",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1997/19970100278.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 132/Α/22-8-1994",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 211/1994 - ΦΕΚ 132/Α/22-8-1994 (Κωδικοποιημένο)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1994/19940100132.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 105/Α/31-8-1982",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 579/1982 - ΦΕΚ 105/Α/31-8-1982",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1982/19820100105.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "fek:ΦΕΚ 244/Α/1-9-1977",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 682/1977 - ΦΕΚ 244/Α/1-9-1977 (Κωδικοποιημένος)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1977/19770100244.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  }
+ ]
+}

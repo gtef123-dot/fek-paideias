@@ -1,20 +1,21 @@
 {
  "id": "fek:ΦΕΚ 984/Β/25-2-2026",
- "source": "e-nomothesia",
- "source_label": "e-nomothesia.gr",
- "title": "Υπουργική Απόφαση 22039/Δ6/2026 - ΦΕΚ 984/Β/25-2-2026",
- "summary": "Καθορισμός του Δήμου ή του είδους της γεωγραφικής υποδιαίρεσης του Δήμου για κάθε Δημόσιο Ωνάσειο Σχολείο, του ελάχιστου ποσοστού επιλογής μαθητών, των απαιτούμενων δικαιολογητικών για την απόδειξη του τόπου συνήθους διαμονής σε εφαρμογή",
+ "source": "catalog",
+ "source_label": "ΦΕΚ (κατάλογος e-nomothesia)",
+ "title": "Δημόσια Ωνάσεια Σχολεία: δήμος, ποσοστό & δικαιολογητικά επιλογής μαθητών",
+ "summary": "ΔΗΜ.Ω.Σ.· αντικαθιστά την καταργημένη 28117/Δ6.",
  "doc_type": "Υπουργική Απόφαση",
  "fek_label": "ΦΕΚ 984/Β/25-2-2026",
  "date": "2026-02-25",
  "ada": null,
  "categories": [
-  "Γενικά Εκπαιδευτικά"
+  "Οργάνωση & Διοίκηση Σχολείων",
+  "Σχολική Ζωή & Φοίτηση Μαθητών"
  ],
  "levels": [
-  "Όλες / Γενικό"
+  "Δευτεροβάθμια"
  ],
- "classified_by": "fallback",
+ "classified_by": "ai-curated",
  "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260200984.pdf",
  "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/ya-22039-d6-2026.html",
  "added_at": "2026-06-14",
@@ -23,7 +24,7 @@
  "articles": [],
  "excerpts": [],
  "enriched": false,
- "status": null,
+ "status": "ΙΣΧΥΟΝ",
  "enrich_tried": 0,
  "affected_by": [],
  "authority_level": "primary_law",

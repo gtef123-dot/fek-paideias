@@ -1,30 +1,30 @@
 {
  "id": "fek:ΦΕΚ 4589/Β/22-8-2025",
- "source": "e-nomothesia",
- "source_label": "e-nomothesia.gr",
- "title": "Υπουργική Απόφαση 7612/2025 - ΦΕΚ 4589/Β/22-8-2025",
- "summary": "Αναστολή λειτουργίας Νηπιαγωγείων και Δημοτικών Σχολείων Περιφέρειας Πελοποννήσου για το σχολικό έτος 2025-2026.",
+ "source": "catalog",
+ "source_label": "ΦΕΚ (κατάλογος e-nomothesia)",
+ "title": "Κατανομή οργανικών θέσεων εκπαιδευτικών ΕΑΕ & ΕΕΠ στα ΚΕΔΑΣΥ",
+ "summary": "Πρόσφατη ρύθμιση (2025)· Χωρίς ένδειξη κατάργησης στο κείμενο",
  "doc_type": "Υπουργική Απόφαση",
  "fek_label": "ΦΕΚ 4589/Β/22-8-2025",
  "date": "2025-08-22",
  "ada": null,
  "categories": [
-  "Οργάνωση & Διοίκηση Σχολείων",
-  "Νηπιαγωγείο / Ολοήμερο"
+  "Τοποθετήσεις & Οργανικές Θέσεις",
+  "Ειδική Αγωγή & Εκπαίδευση (ΕΑΕ)"
  ],
  "levels": [
-  "Πρωτοβάθμια"
+  "Όλες / Γενικό"
  ],
- "classified_by": "rules",
+ "classified_by": "ai-curated",
  "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204589.pdf",
- "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/ya-7612-2025.html",
+ "source_url": "https://www.e-nomothesia.gr/protobathmia-ekpaideuse/ya-7612-2025.html",
  "added_at": "2026-06-14",
  "summary_ai": null,
  "keywords": [],
  "articles": [],
  "excerpts": [],
  "enriched": false,
- "status": null,
+ "status": "ΙΣΧΥΟΝ",
  "enrich_tried": 0,
  "affected_by": [],
  "authority_level": "primary_law",

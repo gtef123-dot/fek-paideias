@@ -127,7 +127,10 @@ def _load_dotenv() -> None:
 _load_dotenv()
 # If unset, the pipeline runs on the rule-based classifier alone.
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = "gemini-2.5-flash"
+# gemini-2.5-flash free tier is only 20 requests/DAY on this (express-mode) key —
+# too low for backend classify/enrich/curate. flash-lite has a separate, larger
+# per-model daily quota and is plenty for these structured tasks. Overridable.
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
     f"{GEMINI_MODEL}:generateContent"

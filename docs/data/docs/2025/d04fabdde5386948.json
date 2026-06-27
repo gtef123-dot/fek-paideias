@@ -1,29 +1,29 @@
 {
  "id": "fek:ΦΕΚ 5381/Β/8-10-2025",
- "source": "e-nomothesia",
- "source_label": "e-nomothesia.gr",
- "title": "Κοινή Υπουργική Απόφαση 14457/2025 - ΦΕΚ 5381/Β/8-10-2025",
- "summary": "Υλοποίηση του προγράμματος «Σχολικά Γεύματα» στα Δημοτικά Σχολεία της χώρας για το σχολικό έτος 2025-2026.",
+ "source": "catalog",
+ "source_label": "ΦΕΚ (κατάλογος e-nomothesia)",
+ "title": "Πρόγραμμα «Σχολικά Γεύματα» 2025-26",
+ "summary": "Πρόσφατη ετήσια ρύθμιση (2025-26)",
  "doc_type": "ΚΥΑ",
  "fek_label": "ΦΕΚ 5381/Β/8-10-2025",
  "date": "2025-10-08",
  "ada": null,
  "categories": [
-  "Γενικά Εκπαιδευτικά"
+  "Σχολική Ζωή & Φοίτηση Μαθητών"
  ],
  "levels": [
   "Πρωτοβάθμια"
  ],
- "classified_by": "fallback",
+ "classified_by": "ai-curated",
  "official_url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250205381.pdf",
- "source_url": "https://www.e-nomothesia.gr/kat-ekpaideuse/protobathmia-ekpaideuse/kya-14457-2025.html",
+ "source_url": "https://www.e-nomothesia.gr/protobathmia-ekpaideuse/kya-14457-2025.html",
  "added_at": "2026-06-14",
  "summary_ai": null,
  "keywords": [],
  "articles": [],
  "excerpts": [],
  "enriched": false,
- "status": null,
+ "status": "ΙΣΧΥΟΝ",
  "enrich_tried": 0,
  "affected_by": [],
  "authority_level": "primary_law",

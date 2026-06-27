@@ -23,7 +23,7 @@ except Exception:  # noqa: BLE001
 
 from datetime import datetime, timezone
 
-from . import classify, config, enrich, events, knowledge, pdf, seed, store
+from . import classify, config, curated, enrich, events, knowledge, pdf, seed, store
 from .sources import diavgeia, enomothesia
 from .taxonomy import FALLBACK_CATEGORY
 
@@ -107,6 +107,23 @@ def main() -> int:
             kn_updated += 1
     if kn_added or kn_updated:
         print(f"-> knowledge cards: {kn_added} added, {kn_updated} refreshed")
+    conn.commit()
+
+    # ── AI-curated catalog (the bulk in-force corpus from the hand-off) ──
+    from .taxonomy import FALLBACK_CATEGORY as _FB
+    cur_added = cur_updated = 0
+    for rec in curated.records():
+        if not rec.get("categories"):
+            rec["categories"] = [_FB]
+        existed = rec["id"] in known
+        inserted = store.upsert_static(conn, rec)
+        known.add(rec["id"])
+        if inserted:
+            cur_added += 1
+        elif existed:
+            cur_updated += 1
+    if cur_added or cur_updated:
+        print(f"-> AI-curated catalog: {cur_added} added, {cur_updated} refreshed")
     conn.commit()
 
     # ── Event detection (#1): flag tracked laws that incoming acts amend/repeal ──

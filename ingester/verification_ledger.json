@@ -1,0 +1,1767 @@
+{
+ "count": 51,
+ "done": 49,
+ "items": [
+  {
+   "id": "fek:ΦΕΚ 3358/Β/12-6-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 75707/Δ2/2026 - ΦΕΚ 3358/Β/12-6-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203358.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "11521 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3358', '75707']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 3275/Β/11-6-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 72559/Δ3/2026 - ΦΕΚ 3275/Β/11-6-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203275.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16561 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3275', '72559']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 3208/Β/5-6-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ.253/65523/Α5/2026 - ΦΕΚ 3208/Β/5-6-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203208.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "24549 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3208', '65523']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 3216/Β/5-6-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 69785/Δ3/2026 - ΦΕΚ 3216/Β/5-6-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203216.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3216', '69785']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 3159/Β/4-6-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 72907/ΓΔ4/2026 - ΦΕΚ 3159/Β/4-6-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203159.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "13279 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3159', '72907']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 3147/Β/3-6-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ20/69932/Δ4/2026 - ΦΕΚ 3147/Β/3-6-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260203147.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "12986 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['3147', '69932']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2922/Β/22-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ20/61664/Δ4/2026 - ΦΕΚ 2922/Β/22-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202922.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2922', '61664']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2848/Β/21-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ.253.1/62166/Α5/2026 - ΦΕΚ 2848/Β/21-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202848.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "13510 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2848', '62166']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "1/1 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 75/Α/18-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 28/2026 - ΦΕΚ 75/Α/18-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2026/20260100075.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['28', '75']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2768/Β/18-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ.253/56199/Α5/2026 - ΦΕΚ 2768/Β/18-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202768.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "11966 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2768', '56199']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 72/Α/15-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Προεδρικό Διάταγμα 26/2026 - ΦΕΚ 72/Α/15-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2026/20260100072.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "3752 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['26', '72']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2650/Β/13-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση 57176/Υ1/2026 - ΦΕΚ 2650/Β/13-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202650.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "20565 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2650', '57176']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "1/1 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2649/Β/13-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ.153/55492/Α5/2026 - ΦΕΚ 2649/Β/13-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202649.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "18505 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2649', '55492']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2639/Β/12-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση 55909/Δ6/2026 - ΦΕΚ 2639/Β/12-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202639.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "29075 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2639', '55909']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2547/Β/7-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ.253/51145/Α5/2026 - ΦΕΚ 2547/Β/7-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202547.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "22036 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2547', '51145']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2583/Β/7-5-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 54058/Δ2/2026 - ΦΕΚ 2583/Β/7-5-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202583.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "11667 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2583', '54058']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2140/Β/15-4-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Απόφαση 44782/Κ1/2026 - ΦΕΚ 2140/Β/15-4-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260202140.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "16385 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2140', '44782']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 1522/Β/17-3-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση 5136/2026 - ΦΕΚ 1522/Β/17-3-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201522.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "10778 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['1522', '5136']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 1197/Β/6-3-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ.253/21193/Α5/2026 - ΦΕΚ 1197/Β/6-3-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201197.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "6897 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['1197', '21193']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 1122/Β/5-3-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 26786/ΓΔ4/2026 - ΦΕΚ 1122/Β/5-3-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201122.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['1122', '26786']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 1084/Β/27-2-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση 24350/Ν1/2026 - ΦΕΚ 1084/Β/27-2-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260201084.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "23095 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['1084', '24350']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "1/1 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 984/Β/25-2-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 22039/Δ6/2026 - ΦΕΚ 984/Β/25-2-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260200984.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "26354 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['22039', '984']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 339/Β/2-2-2026",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση Φ12/7404/Δ1/2026 - ΦΕΚ 339/Β/2-2-2026",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2026/20260200339.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "9771 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['339', '7404']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 6316/Β/25-11-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 150115/Δ1/2025 - ΦΕΚ 6316/Β/25-11-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250206316.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['150115', '6316']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 5381/Β/8-10-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση 14457/2025 - ΦΕΚ 5381/Β/8-10-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250205381.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['14457', '5381']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 4893/Β/15-9-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Απόφαση 109189/Κ6/2025 - ΦΕΚ 4893/Β/15-9-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204893.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['109189', '4893']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 4589/Β/22-8-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 7612/2025 - ΦΕΚ 4589/Β/22-8-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204589.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "18162 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4589', '7612']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 4582/Β/22-8-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Απόφαση 6423/2025 - ΦΕΚ 4582/Β/22-8-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204582.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "9766 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4582', '6423']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 4552/Β/20-8-2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση Φ.10/100609/Δ1/2025 - ΦΕΚ 4552/Β/20-8-2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2025/20250204552.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['100609', '4552']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "1/1 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:142/Α/2025",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5224/2025 — άρθρο 117 (φοίτηση μαθητών με αναπηρία/ειδικές εκπαιδευτικές ανάγκες· τροποποιεί τον ν.3699/2008: ένας εκπ/κός ΕΑΕ υποστηρίζει το σύνολο των μαθητών με έγκριση ΠΣ στο τμήμα, έως 2 εκπ/κοί ΕΑΕ σε τμήμα με σοβαρότερες ανάγκες). Ισχύς από 1-9-2025. ΕΙΝΑΙ Η ΣΤΑΤΟΥΤΑΡΧΙΚΗ ΒΑΣΗ της επίμαχης εγκυκλίου 122194/ΓΔ4/2025",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2025/20250100142.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.75,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['142', '3699', '5224']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "6/8 key terms (75%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 7641/Β/31-12-2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση 137145/Ν1/2024 - ΦΕΚ 7641/Β/31-12-2024",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2024/20240207641.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "14728 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['137145', '7641']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "1/1 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 633/Β/29-1-2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υπουργική Απόφαση 8778/Ν1/2024 - ΦΕΚ 633/Β/29-1-2024",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2024/20240200633.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "6148 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['633', '8778']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:5387/Β/2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υ.Α. 109697/ΓΔ4/2024 — Πρότυπος Κανονισμός Λειτουργίας σχολικών μονάδων Πρωτοβάθμιας & Δευτεροβάθμιας Εκπαίδευσης (αντικατέστησε από 26-09-2024 την Υ.Α. 13423/ΓΔ4/2021)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2024/20240205387.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.86,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "17529 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['109697', '13423', '5387']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "6/7 key terms (86%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:9/Α/2024",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 5082/2024 — Ενίσχυση Εθνικού Συστήματος Επαγγελματικής Εκπαίδευσης & Κατάρτισης (τροποποιεί διατάξεις αξιολόγησης/επιλογής στελεχών του ν.4823/2021· εύρος ανά άρθρο προς επιβεβαίωση)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2024/20240100009.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['5082', '9']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "8/8 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 4264/Β/10-8-2022",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Απόφαση 98750/Κ6/2022 - ΦΕΚ 4264/Β/10-8-2022 (Καταργημένη)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220204264.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['4264', '98750']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/1 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2662/Β/30-5-2022",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Απόφαση Κ5/63547/2022 - ΦΕΚ 2662/Β/30-5-2022",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220202662.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2662', '63547']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 2661/Β/30-5-2022",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Απόφαση 63536/Κ5/2022 - ΦΕΚ 2661/Β/30-5-2022",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220202661.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.85,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "9966 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['2661', '63536']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": null,
+       "detail": "N/A (τίτλος μόνο-ID)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "fek:ΦΕΚ 609/Β/12-2-2022",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Κοινή Υπουργική Απόφαση 14715/ΓΓ4/2022 - ΦΕΚ 609/Β/12-2-2022",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2022/20220200609.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['14715', '609']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "1/1 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:136/Α/2021",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4823/2021 — Μέρος Β' (επιλογή/τοποθέτηση στελεχών) & Μέρος Γ' (αξιολόγηση στελεχών, εκπαιδευτικών & εκπαιδευτικού έργου· αντικατέστησε ουσιαστικά το ΠΔ 152/2013). Τροποποιήθηκε από ν.5082/2024",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2021/20210100136.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.88,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['136', '152', '4823']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "7/8 key terms (88%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:101/Α/2021",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4808/2021 — Για την προστασία της εργασίας (ενσωμάτωση Οδηγίας 2019/1158): άδεια πατρότητας αρ.27, γονική άδεια αρ.28, άδεια γάμου αρ.39, άδεια μητρότητας αρ.34, ιατρικώς υποβοηθούμενης αναπαραγωγής αρ.35 — εφαρμόζονται και σε αναπληρωτές ΙΔΟΧ",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2021/20210100101.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['101', '4808']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "8/8 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:254/Α/2020",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4763/2020 — Εθνικό Σύστημα Επαγγελματικής Εκπαίδευσης, Κατάρτισης & Διά Βίου Μάθησης (ΕΠΑΛ, τομείς/ειδικότητες, μεταλυκειακό έτος-τάξη μαθητείας· τροπ. εν μέρει από ν.5082/2024)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2020/20200100254.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.88,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['254', '4763']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "7/8 key terms (88%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:13/Α/2019",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4589/2019 — Κεφάλαιο Ε' (αρ.53-67): σύστημα διορισμού/προσλήψεων εκπαιδευτικών, ΕΕΠ & ΕΒΠ μέσω ΑΣΕΠ, αξιολογικοί πίνακες, αρ.63 προσωρινοί αναπληρωτές/ωρομίσθιοι",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2019/20190100013.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.38,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['13', '4589']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "3/8 key terms (38%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:102/Α/2018",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4547/2018 — Αναδιοργάνωση δομών υποστήριξης Α/θμιας & Β/θμιας (ΠΕΚΕΣ, ΚΕΣΥ→νυν ΚΕΔΑΣΥ, ΣΔΕΥ-ΕΔΕΑΥ). ΠΡΟΣΟΧΗ: ονομασίες/αρμοδιότητες τροποποιήθηκαν από ν.4823/2021",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2018/20180100102.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.62,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['102', '4547']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "5/8 key terms (62%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:109/Α/2017",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Π.Δ. 79/2017 — Οργάνωση και λειτουργία νηπιαγωγείων και δημοτικών σχολείων (εγγραφές, ολοήμερο, ωρολόγιο, εφημερίες, δίχρονη υποχρεωτική προσχολική αγωγή)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2017/20170100109.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.75,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['109', '79']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "6/8 key terms (75%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:24/Α/2013",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 4115/2013 (άρθρο 39) σε συνδυασμό με ν.1566/1985 — καθορισμός/μείωση διδακτικού ωραρίου εκπαιδευτικών Α/θμιας & Β/θμιας",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2013/20130100024.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['24', '4115']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/7 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:199/Α/2008",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3699/2008 — Ειδική Αγωγή και Εκπαίδευση ατόμων με αναπηρία ή ειδικές εκπαιδευτικές ανάγκες (ιδίως αρ.6: παράλληλη στήριξη-συνεκπαίδευση, τμήματα ένταξης, ρόλος ΚΕΔΑΣΥ· όπως τροπ. από ν.4547/2018, ν.4823/2021, ν.5224/2025)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2008/20080100199.pdf",
+    "verdict": {
+     "status": "verified",
+     "confidence": 0.9,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 1.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['199', '3699']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": true,
+       "detail": "8/8 key terms (100%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:26/Α/2007",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 3528/2007 — Υπαλληλικός Κώδικας, άρθρα 48-60 (κανονική, αναρρωτική, ειδικές αρ.50, αιμοδοτική παρ.5 αρ.50, εξετάσεων αρ.60, ανατροφής). Βάση αδειών μονίμων ΚΑΙ — όπου ρητά παραπέμπεται — αναπληρωτών",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2007/20070100026.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.25,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['26', '3528']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "2/8 key terms (25%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:1340/Β/2002",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Υ.Α. Φ.353.1/324/105657/Δ1/2002 — Καθήκοντα και αρμοδιότητες προϊσταμένων περιφερειακών υπηρεσιών, διευθυντών/υποδιευθυντών σχολικών μονάδων & ΣΕΚ, και συλλόγου διδασκόντων",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2002/20020201340.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "30000 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['105657', '1340']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/8 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:45/Α/1996",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Π.Δ. 50/1996 — Μεταθέσεις και τοποθετήσεις εκπαιδευτικών Α/θμιας & Β/θμιας (μόρια, αμοιβαίες, ειδικές κατηγορίες, οριστική τοποθέτηση· όπως ισχύει μετά ΠΔ 100/1997)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1996/19960100045.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "19 chars"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  },
+  {
+   "id": "seed:191/Α/1988",
+   "status": "done",
+   "attempts": 1,
+   "data": {
+    "title": "Π.Δ. 410/1988 — Κώδικας προσωπικού με σύμβαση εργασίας ιδιωτικού δικαίου του Δημοσίου (αρ.20 παρ.8 κανονική 7 ημ· αρ.23 γονικές άδειες ανατροφής/σχολικής επίδοσης/ασθένειας τέκνου, όπως τροπ. με αρ.47 ν.4674/2020)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1988/19880100191.pdf",
+    "verdict": {
+     "status": "partially_verified",
+     "confidence": 0.65,
+     "fetched": true,
+     "number_present": true,
+     "title_match": 0.0,
+     "amendments": 0,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": true,
+       "detail": "806 chars"
+      },
+      {
+       "check": "law_number_in_text",
+       "ok": true,
+       "detail": "found ['191']"
+      },
+      {
+       "check": "title_terms_in_text",
+       "ok": false,
+       "detail": "0/8 key terms (0%)"
+      }
+     ]
+    }
+   },
+   "error": null
+  },
+  {
+   "id": "seed:167/Α/1985",
+   "status": "failed",
+   "attempts": 1,
+   "data": {
+    "title": "Νόμος 1566/1985 — Δομή και λειτουργία πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης (κωδικοποιημένος· βάση ωραρίου, συλλόγου διδασκόντων, διάθεσης/συμπλήρωσης ωραρίου — αρ.13-14)",
+    "url": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/1985/19850100167.pdf",
+    "verdict": {
+     "status": "unverified",
+     "confidence": 0.0,
+     "fetched": false,
+     "evidence": [
+      {
+       "check": "fetch_official_text",
+       "ok": false,
+       "detail": "no text/extract failed"
+      }
+     ],
+     "note": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+    }
+   },
+   "error": "Δεν ανακτήθηκε επίσημο κείμενο (κακό/σαρωμένο PDF ή μη-PDF URL)."
+  }
+ ]
+}
