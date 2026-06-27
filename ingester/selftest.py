@@ -54,7 +54,12 @@ STOP_TERMS = {
 }
 
 RETRIEVAL_CASES = [
-    ("μπορώ να λείψω για τον γάμο μου", "knowledge:adeies-anaplirotes-espa", 3),
+    # The precise answer to a marriage-leave question is the marriage-leave LAW
+    # itself — ν.4808/2021 αρ.39 (= seed:101), which ranks #1. The old assertion
+    # used a knowledge card as a proxy, but that card never mentions γάμος and
+    # slipped below specific Διαύγεια άδεια acts once the corpus grew ~15×, so we
+    # assert the genuinely-correct top hit instead.
+    ("μπορώ να λείψω για τον γάμο μου", "seed:101/Α/2021", 3),
     ("αρρώστησα τι άδεια παίρνω αναπληρωτής", "knowledge:adeies-anaplirotes-espa", 5),
     ("συνδιδασκαλία παράλληλη στήριξη μέσα στην τάξη", "knowledge:eae-syndidaskalia", 3),
 ]
