@@ -25,7 +25,7 @@
  "excerpts": [],
  "enriched": false,
  "status": "ΙΣΧΥΟΝ",
- "enrich_tried": 0,
+ "enrich_tried": 1,
  "affected_by": [],
  "authority_level": "primary_law",
  "verification_status": "verified",
