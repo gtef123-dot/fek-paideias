@@ -18,13 +18,31 @@
  "official_url": "https://diavgeia.gov.gr/doc/Ρ4ΔΡ46ΝΚΠΔ-ΗΨΕ",
  "source_url": "https://diavgeia.gov.gr/decision/view/Ρ4ΔΡ46ΝΚΠΔ-ΗΨΕ",
  "added_at": "2026-06-16",
- "summary_ai": null,
- "keywords": [],
- "articles": [],
- "excerpts": [],
- "enriched": false,
+ "summary_ai": "Το Ιδιωτικό Συμφωνητικό αφορά τον ορισμό και τη συνεργασία με EPALE Ambassadors για την υλοποίηση του έργου EPALE με κωδικό ERASMUS-EDU-2024-EPALE-IBA. Η διάρκεια της συνεργασίας είναι έως 31.12.2026 και η αμοιβή ανέρχεται σε 1.200€ κατ' ανώτατο όριο.",
+ "keywords": [
+  "Ιδιωτικό Συμφωνητικό",
+  "EPALE Ambassadors",
+  "Ι.Κ.Υ.",
+  "ERASMUS-EDU-2024-EPALE-IBA",
+  "Ελλάδα",
+  "υποστήριξη έργου",
+  "αμοιβή"
+ ],
+ "articles": [
+  "Ορισμός ομάδας EPALE Ambassadors για το έργο EPALE.",
+  "Συμφωνητικό μεταξύ Ι.Κ.Υ. και Ambassadors.",
+  "Παροχή εξειδικευμένης υποστήριξης για την υλοποίηση του έργου.",
+  "Διάρκεια του συμφωνητικού έως 31.12.2026.",
+  "Αμοιβή εκάστου Ambassador: 1.200€ κατ' ανώτατο όριο."
+ ],
+ "excerpts": [
+  "Σύμφωνα με την απόφαση του Διοικητικού Συμβουλίου του Ι.Κ.Υ. συνεδρία 9η /16-04-2025 για τον ορισμό ομάδας των EPALE Ambassadors για την Υλοποίηση του έργου EPALE με κωδικό ERASMUS-EDU-2024-EPALE-IBA EPALE National Support Services/101196860 - EPALE NSS GREECE, υπεγράφη Ιδιωτικό Συμφωνητικό μεταξύ του Ιδρύματος Κρατικών Υποτροφιών και των κάτωθι αναφερόμενων.",
+  "Οι Ambassadors θα παρέχουν στο Ι.Κ.Υ. εξειδικευμένη υποστήριξη για την υλοποίηση του έργου EPALE με κωδικό ERASMUS-EDU-2024-EPALE-IBA EPALE National Support Services/101196860 - EPALE NSS GREECE.",
+  "Η αμοιβή εκάστου Ambassador ανέρχεται σε ποσό ύψους χιλίων διακοσίων ευρώ (1.200€) κατ’ ανώτατο όριο, συμπεριλαμβανομένου του ισχύοντος κάθε φορά Φ.Π.Α. και λοιπών νόμιμων κρατήσεων."
+ ],
+ "enriched": true,
  "status": null,
- "enrich_tried": 1,
+ "enrich_tried": 2,
  "affected_by": [],
  "authority_level": "diavgeia_decision",
  "verification_status": "verified",
