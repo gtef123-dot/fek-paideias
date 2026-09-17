@@ -45,7 +45,13 @@
  "enriched": true,
  "status": "ΙΣΧΥΟΝ",
  "enrich_tried": 1,
- "affected_by": [],
+ "affected_by": [
+  {
+   "label": "ΑΔΑ ΨΡ9846ΝΚΠΔ-20Δ",
+   "url": "https://diavgeia.gov.gr/doc/ΨΡ9846ΝΚΠΔ-20Δ",
+   "date": "2026-09-16"
+  }
+ ],
  "authority_level": "primary_law",
  "verification_status": "verified",
  "legal_disclaimer_required": false,
