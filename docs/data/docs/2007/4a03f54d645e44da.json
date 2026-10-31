@@ -44,7 +44,13 @@
  "enriched": true,
  "status": "ΙΣΧΥΟΝ",
  "enrich_tried": 1,
- "affected_by": [],
+ "affected_by": [
+  {
+   "label": "ΑΔΑ 6ΧΨ546ΝΚΠΔ-ΙΟΛ",
+   "url": "https://diavgeia.gov.gr/doc/6ΧΨ546ΝΚΠΔ-ΙΟΛ",
+   "date": "2026-10-30"
+  }
+ ],
  "authority_level": "primary_law",
  "verification_status": "verified",
  "legal_disclaimer_required": false,
